@@ -1,0 +1,647 @@
+,sHomeName,sAwayName,iHomeGoals,iAwayGoals,sRegularPP,sCalendar,sMatchInfo,sStadium,sSpectators,dDate,iSpectators,sHome,sAway
+0,HC ‘05 iClinic Banská Bystrica,MHk 32 Liptovský Mikuláš,4,5,sn," Piatok 14.09.2018, 17:30"," 1. kolo, Číslo zápasu 1", ZŠ Banská Bystrica, 2356 divákov,2018-09-14 17:30:00,2356.0,BB,LM
+1,HK DUKLA Trenčín,HK Poprad,4,2,," Piatok 14.09.2018, 18:00"," 1. kolo, Číslo zápasu 2"," ZŠ Pavla Demitru, Trenčín", 4186 divákov,2018-09-14 18:00:00,4186.0,TN,PP
+2,MAC Újbuda ,MHC MIKRON Nové Zámky ,1,7,," Piatok 14.09.2018, 19:00"," 1. kolo, Číslo zápasu 3"," Ice rink MAC Budapest, HUN", 920 divákov,2018-09-14 19:00:00,920.0,BU,NZ
+3,HK Nitra,DVTK Jegesmedvék Miskolc,6,1,," Piatok 14.09.2018, 18:00"," 1. kolo, Číslo zápasu 4", Nitra Aréna, 2758 divákov,2018-09-14 18:00:00,2758.0,NR,MI
+4,MsHK DOXXbet Žilina,HC 07 Detva ,4,5,," Piatok 14.09.2018, 17:30"," 1. kolo, Číslo zápasu 5", ZŠ Žilina, 475 divákov,2018-09-14 17:30:00,475.0,ZI,DT
+5,HC Košice,HKM Zvolen,5,2,," Piatok 14.09.2018, 17:30"," 1. kolo, Číslo zápasu 6", STEEL Arena Košice, 3960 divákov,2018-09-14 17:30:00,3960.0,KE,ZV
+6,HKM Zvolen,MHk 32 Liptovský Mikuláš,6,3,," Utorok 09.10.2018, 18:00"," 2. kolo, Číslo zápasu 7", ZŠ Zvolen, 1260 divákov,2018-10-09 18:00:00,1260.0,ZV,LM
+7,HC 07 Detva ,HC Košice,1,4,," Nedeľa 16.09.2018, 17:30"," 2. kolo, Číslo zápasu 8", ZŠ Detva, 555 divákov,2018-09-16 17:30:00,555.0,DT,KE
+8,DVTK Jegesmedvék Miskolc,MsHK DOXXbet Žilina,6,2,," Nedeľa 16.09.2018, 17:30"," 2. kolo, Číslo zápasu 9"," Ice rink Miskolc, HUN", 1310 divákov,2018-09-16 17:30:00,1310.0,MI,ZI
+9,MHC MIKRON Nové Zámky ,HK Nitra,4,0,," Nedeľa 16.09.2018, 16:00"," 2. kolo, Číslo zápasu 10", ZŠ Nové Zámky, 1569 divákov,2018-09-16 16:00:00,1569.0,NZ,NR
+10,HK Poprad,MAC Újbuda ,3,1,," Nedeľa 16.09.2018, 17:00"," 2. kolo, Číslo zápasu 11", ZŠ Poprad, 1628 divákov,2018-09-16 17:00:00,1628.0,PP,BU
+11,HC ‘05 iClinic Banská Bystrica,HK DUKLA Trenčín,2,1,," Nedeľa 16.09.2018, 16:00"," 2. kolo, Číslo zápasu 12", ZŠ Banská Bystrica, 2401 divákov,2018-09-16 16:00:00,2401.0,BB,TN
+12,HK DUKLA Trenčín,MHk 32 Liptovský Mikuláš,3,2,pp," Utorok 18.09.2018, 18:00"," 3. kolo, Číslo zápasu 13"," ZŠ Pavla Demitru, Trenčín", 3072 divákov,2018-09-18 18:00:00,3072.0,TN,LM
+13,MAC Újbuda ,HC ‘05 iClinic Banská Bystrica,4,0,," Utorok 18.09.2018, 19:00"," 3. kolo, Číslo zápasu 14"," Ice rink MAC Budapest, HUN", 470 divákov,2018-09-18 19:00:00,470.0,BU,BB
+14,HK Nitra,HK Poprad,4,1,," Utorok 18.09.2018, 18:00"," 3. kolo, Číslo zápasu 15", Nitra Aréna, 1927 divákov,2018-09-18 18:00:00,1927.0,NR,PP
+15,MsHK DOXXbet Žilina,MHC MIKRON Nové Zámky ,2,3,," Utorok 18.09.2018, 17:30"," 3. kolo, Číslo zápasu 16", ZŠ Žilina, 415 divákov,2018-09-18 17:30:00,415.0,ZI,NZ
+16,HC Košice,DVTK Jegesmedvék Miskolc,6,3,," Utorok 18.09.2018, 17:30"," 3. kolo, Číslo zápasu 17", STEEL Arena Košice, 4238 divákov,2018-09-18 17:30:00,4238.0,KE,MI
+17,HKM Zvolen,HC 07 Detva ,6,1,," Utorok 18.09.2018, 18:00"," 3. kolo, Číslo zápasu 18", ZŠ Zvolen, 2618 divákov,2018-09-18 18:00:00,2618.0,ZV,DT
+18,HC 07 Detva ,MHk 32 Liptovský Mikuláš,1,2,," Piatok 21.09.2018, 18:00"," 4. kolo, Číslo zápasu 19", ZŠ Detva, 380 divákov,2018-09-21 18:00:00,380.0,DT,LM
+19,DVTK Jegesmedvék Miskolc,HKM Zvolen,0,5,," Piatok 21.09.2018, 18:30"," 4. kolo, Číslo zápasu 20"," Ice rink Miskolc, HUN", 1210 divákov,2018-09-21 18:30:00,1210.0,MI,ZV
+20,MHC MIKRON Nové Zámky ,HC Košice,2,3,," Piatok 21.09.2018, 18:30"," 4. kolo, Číslo zápasu 21", ZŠ Nové Zámky, 1834 divákov,2018-09-21 18:30:00,1834.0,NZ,KE
+21,HK Poprad,MsHK DOXXbet Žilina,6,3,," Piatok 21.09.2018, 17:00"," 4. kolo, Číslo zápasu 22", ZŠ Poprad, 1005 divákov,2018-09-21 17:00:00,1005.0,PP,ZI
+22,HC ‘05 iClinic Banská Bystrica,HK Nitra,6,5,," Piatok 21.09.2018, 18:00"," 4. kolo, Číslo zápasu 23", ZŠ Banská Bystrica, 2512 divákov,2018-09-21 18:00:00,2512.0,BB,NR
+23,HK DUKLA Trenčín,MAC Újbuda ,4,3,pp," Piatok 21.09.2018, 18:00"," 4. kolo, Číslo zápasu 24"," ZŠ Pavla Demitru, Trenčín", 3360 divákov,2018-09-21 18:00:00,3360.0,TN,BU
+24,MAC Újbuda ,MHk 32 Liptovský Mikuláš,2,3,sn," Nedeľa 23.09.2018, 17:30"," 5. kolo, Číslo zápasu 25"," Ice rink MAC Budapest, HUN", 450 divákov,2018-09-23 17:30:00,450.0,BU,LM
+25,HK Nitra,HK DUKLA Trenčín,3,1,," Nedeľa 23.09.2018, 17:00"," 5. kolo, Číslo zápasu 26", Nitra Aréna, 3034 divákov,2018-09-23 17:00:00,3034.0,NR,TN
+26,MsHK DOXXbet Žilina,HC ‘05 iClinic Banská Bystrica,3,2,pp," Nedeľa 23.09.2018, 17:00"," 5. kolo, Číslo zápasu 27", ZŠ Žilina, 423 divákov,2018-09-23 17:00:00,423.0,ZI,BB
+27,HC Košice,HK Poprad,0,1,," Nedeľa 23.09.2018, 17:30"," 5. kolo, Číslo zápasu 28", STEEL Arena Košice, 4259 divákov,2018-09-23 17:30:00,4259.0,KE,PP
+28,HKM Zvolen,MHC MIKRON Nové Zámky ,2,3,pp," Nedeľa 23.09.2018, 17:00"," 5. kolo, Číslo zápasu 29", ZŠ Zvolen, 1553 divákov,2018-09-23 17:00:00,1553.0,ZV,NZ
+29,HC 07 Detva ,DVTK Jegesmedvék Miskolc,5,2,," Nedeľa 23.09.2018, 17:30"," 5. kolo, Číslo zápasu 30", ZŠ Detva, 560 divákov,2018-09-23 17:30:00,560.0,DT,MI
+30,MHk 32 Liptovský Mikuláš,DVTK Jegesmedvék Miskolc,1,3,," Štvrtok 27.09.2018, 17:00"," 6. kolo, Číslo zápasu 31", ZŠ Spišská Nová Ves, 304 divákov,2018-09-27 17:00:00,304.0,LM,MI
+31,MHC MIKRON Nové Zámky ,HC 07 Detva ,2,0,," Piatok 28.09.2018, 18:30"," 6. kolo, Číslo zápasu 32", ZŠ Nové Zámky, 1325 divákov,2018-09-28 18:30:00,1325.0,NZ,DT
+32,HK Poprad,HKM Zvolen,3,2,sn," Piatok 28.09.2018, 17:00"," 6. kolo, Číslo zápasu 33", ZŠ Poprad, 1589 divákov,2018-09-28 17:00:00,1589.0,PP,ZV
+33,HC ‘05 iClinic Banská Bystrica,HC Košice,3,1,," Piatok 28.09.2018, 17:30"," 6. kolo, Číslo zápasu 34", ZŠ Banská Bystrica, 2509 divákov,2018-09-28 17:30:00,2509.0,BB,KE
+34,HK DUKLA Trenčín,MsHK DOXXbet Žilina,3,0,," Piatok 28.09.2018, 18:00"," 6. kolo, Číslo zápasu 35"," ZŠ Pavla Demitru, Trenčín", 2983 divákov,2018-09-28 18:00:00,2983.0,TN,ZI
+35,MAC Újbuda ,HK Nitra,1,2,sn," Piatok 28.09.2018, 19:00"," 6. kolo, Číslo zápasu 36"," Ice rink MAC Budapest, HUN", 685 divákov,2018-09-28 19:00:00,685.0,BU,NR
+36,HK Nitra,MHk 32 Liptovský Mikuláš,0,4,," Nedeľa 30.09.2018, 17:00"," 7. kolo, Číslo zápasu 37", Nitra Aréna, 2185 divákov,2018-09-30 17:00:00,2185.0,NR,LM
+37,MsHK DOXXbet Žilina,MAC Újbuda ,6,3,," Nedeľa 30.09.2018, 17:00"," 7. kolo, Číslo zápasu 38", ZŠ Žilina, 787 divákov,2018-09-30 17:00:00,787.0,ZI,BU
+38,HC Košice,HK DUKLA Trenčín,5,1,," Nedeľa 30.09.2018, 17:00"," 7. kolo, Číslo zápasu 39", STEEL Arena Košice, 4196 divákov,2018-09-30 17:00:00,4196.0,KE,TN
+39,HKM Zvolen,HC ‘05 iClinic Banská Bystrica,4,1,," Nedeľa 30.09.2018, 17:00"," 7. kolo, Číslo zápasu 40", ZŠ Zvolen, 2698 divákov,2018-09-30 17:00:00,2698.0,ZV,BB
+40,HC 07 Detva ,HK Poprad,0,3,," Nedeľa 30.09.2018, 17:30"," 7. kolo, Číslo zápasu 41", ZŠ Detva, 498 divákov,2018-09-30 17:30:00,498.0,DT,PP
+41,DVTK Jegesmedvék Miskolc,MHC MIKRON Nové Zámky ,4,2,," Nedeľa 30.09.2018, 17:30"," 7. kolo, Číslo zápasu 42"," Ice rink Miskolc, HUN", 1260 divákov,2018-09-30 17:30:00,1260.0,MI,NZ
+42,MHk 32 Liptovský Mikuláš,MHC MIKRON Nové Zámky ,0,1,," Utorok 02.10.2018, 17:00"," 8. kolo, Číslo zápasu 43", ZŠ Spišská Nová Ves, 310 divákov,2018-10-02 17:00:00,310.0,LM,NZ
+43,HK Poprad,DVTK Jegesmedvék Miskolc,3,2,pp," Utorok 02.10.2018, 17:00"," 8. kolo, Číslo zápasu 44", ZŠ Poprad, 1063 divákov,2018-10-02 17:00:00,1063.0,PP,MI
+44,HC ‘05 iClinic Banská Bystrica,HC 07 Detva ,2,3,pp," Utorok 02.10.2018, 17:30"," 8. kolo, Číslo zápasu 45", ZŠ Banská Bystrica, 2201 divákov,2018-10-02 17:30:00,2201.0,BB,DT
+45,HK DUKLA Trenčín,HKM Zvolen,2,4,," Utorok 02.10.2018, 18:00"," 8. kolo, Číslo zápasu 46"," ZŠ Pavla Demitru, Trenčín", 2722 divákov,2018-10-02 18:00:00,2722.0,TN,ZV
+46,MAC Újbuda ,HC Košice,1,2,," Utorok 02.10.2018, 19:00"," 8. kolo, Číslo zápasu 47"," Ice rink MAC Budapest, HUN", 624 divákov,2018-10-02 19:00:00,624.0,BU,KE
+47,HK Nitra,MsHK DOXXbet Žilina,4,1,," Utorok 02.10.2018, 18:00"," 8. kolo, Číslo zápasu 48", Nitra Aréna, 1515 divákov,2018-10-02 18:00:00,1515.0,NR,ZI
+48,MsHK DOXXbet Žilina,MHk 32 Liptovský Mikuláš,4,3,," Piatok 05.10.2018, 17:30"," 9. kolo, Číslo zápasu 49", ZŠ Žilina, 502 divákov,2018-10-05 17:30:00,502.0,ZI,LM
+49,HC Košice,HK Nitra,3,1,," Piatok 05.10.2018, 17:30"," 9. kolo, Číslo zápasu 50", STEEL Arena Košice, 3952 divákov,2018-10-05 17:30:00,3952.0,KE,NR
+50,HKM Zvolen,MAC Újbuda ,5,3,," Piatok 05.10.2018, 18:00"," 9. kolo, Číslo zápasu 51", ZŠ Zvolen, 1767 divákov,2018-10-05 18:00:00,1767.0,ZV,BU
+51,HC 07 Detva ,HK DUKLA Trenčín,2,4,," Piatok 05.10.2018, 18:00"," 9. kolo, Číslo zápasu 52", ZŠ Detva, 501 divákov,2018-10-05 18:00:00,501.0,DT,TN
+52,DVTK Jegesmedvék Miskolc,HC ‘05 iClinic Banská Bystrica,2,5,," Piatok 05.10.2018, 18:00"," 9. kolo, Číslo zápasu 53"," Ice rink Miskolc, HUN", 1195 divákov,2018-10-05 18:00:00,1195.0,MI,BB
+53,MHC MIKRON Nové Zámky ,HK Poprad,2,1,," Piatok 05.10.2018, 18:30"," 9. kolo, Číslo zápasu 54", ZŠ Nové Zámky, 1563 divákov,2018-10-05 18:30:00,1563.0,NZ,PP
+54,HK Poprad,MHk 32 Liptovský Mikuláš,2,0,," Nedeľa 07.10.2018, 17:00"," 10. kolo, Číslo zápasu 55", ZŠ Poprad, 1109 divákov,2018-10-07 17:00:00,1109.0,PP,LM
+55,HC ‘05 iClinic Banská Bystrica,MHC MIKRON Nové Zámky ,2,1,sn," Nedeľa 07.10.2018, 17:00"," 10. kolo, Číslo zápasu 56", ZŠ Banská Bystrica, 2381 divákov,2018-10-07 17:00:00,2381.0,BB,NZ
+56,HK DUKLA Trenčín,DVTK Jegesmedvék Miskolc,4,0,," Nedeľa 07.10.2018, 17:00"," 10. kolo, Číslo zápasu 57"," ZŠ Pavla Demitru, Trenčín", 3142 divákov,2018-10-07 17:00:00,3142.0,TN,MI
+57,MAC Újbuda ,HC 07 Detva ,2,4,," Nedeľa 07.10.2018, 18:00"," 10. kolo, Číslo zápasu 58"," Ice rink MAC Budapest, HUN", 550 divákov,2018-10-07 18:00:00,550.0,BU,DT
+58,HK Nitra,HKM Zvolen,2,3,pp," Nedeľa 07.10.2018, 16:00"," 10. kolo, Číslo zápasu 59", Nitra Aréna, 2247 divákov,2018-10-07 16:00:00,2247.0,NR,ZV
+59,MsHK DOXXbet Žilina,HC Košice,4,3,sn," Nedeľa 07.10.2018, 17:00"," 10. kolo, Číslo zápasu 60", ZŠ Žilina, 568 divákov,2018-10-07 17:00:00,568.0,ZI,KE
+60,HC Košice,MHk 32 Liptovský Mikuláš,3,2,," Piatok 12.10.2018, 17:30"," 11. kolo, Číslo zápasu 61", STEEL Arena Košice, 3373 divákov,2018-10-12 17:30:00,3373.0,KE,LM
+61,HKM Zvolen,MsHK DOXXbet Žilina,9,2,," Piatok 12.10.2018, 18:00"," 11. kolo, Číslo zápasu 62", ZŠ Zvolen, 1318 divákov,2018-10-12 18:00:00,1318.0,ZV,ZI
+62,HC 07 Detva ,HK Nitra,5,6,sn," Piatok 12.10.2018, 18:00"," 11. kolo, Číslo zápasu 63", ZŠ Detva, 479 divákov,2018-10-12 18:00:00,479.0,DT,NR
+63,DVTK Jegesmedvék Miskolc,MAC Újbuda ,2,3,pp," Piatok 12.10.2018, 18:00"," 11. kolo, Číslo zápasu 64"," Ice rink Miskolc, HUN", 1320 divákov,2018-10-12 18:00:00,1320.0,MI,BU
+64,MHC MIKRON Nové Zámky ,HK DUKLA Trenčín,4,2,," Piatok 12.10.2018, 18:30"," 11. kolo, Číslo zápasu 65", ZŠ Nové Zámky, 1732 divákov,2018-10-12 18:30:00,1732.0,NZ,TN
+65,HK Poprad,HC ‘05 iClinic Banská Bystrica,5,2,," Piatok 12.10.2018, 17:00"," 11. kolo, Číslo zápasu 66", ZŠ Poprad, 1511 divákov,2018-10-12 17:00:00,1511.0,PP,BB
+66,HC ‘05 iClinic Banská Bystrica,MHk 32 Liptovský Mikuláš,7,2,," Nedeľa 14.10.2018, 17:00"," 12. kolo, Číslo zápasu 67", ZŠ Banská Bystrica, 2301 divákov,2018-10-14 17:00:00,2301.0,BB,LM
+67,HK Poprad,HK DUKLA Trenčín,0,3,," Nedeľa 14.10.2018, 17:00"," 12. kolo, Číslo zápasu 68", ZŠ Poprad, 1603 divákov,2018-10-14 17:00:00,1603.0,PP,TN
+68,MHC MIKRON Nové Zámky ,MAC Újbuda ,3,2,," Nedeľa 14.10.2018, 16:00"," 12. kolo, Číslo zápasu 69", ZŠ Nové Zámky, 1047 divákov,2018-10-14 16:00:00,1047.0,NZ,BU
+69,DVTK Jegesmedvék Miskolc,HK Nitra,1,3,," Nedeľa 14.10.2018, 18:00"," 12. kolo, Číslo zápasu 70"," Ice rink Miskolc, HUN", 985 divákov,2018-10-14 18:00:00,985.0,MI,NR
+70,HC 07 Detva ,MsHK DOXXbet Žilina,2,1,," Nedeľa 14.10.2018, 17:30"," 12. kolo, Číslo zápasu 71", ZŠ Detva, 511 divákov,2018-10-14 17:30:00,511.0,DT,ZI
+71,HKM Zvolen,HC Košice,4,1,," Nedeľa 14.10.2018, 16:00"," 12. kolo, Číslo zápasu 72", ZŠ Zvolen, 2279 divákov,2018-10-14 16:00:00,2279.0,ZV,KE
+72,HKM Zvolen,MHk 32 Liptovský Mikuláš,3,1,," Piatok 19.10.2018, 18:00"," 13. kolo, Číslo zápasu 73", ZŠ Zvolen, 1485 divákov,2018-10-19 18:00:00,1485.0,ZV,LM
+73,HC Košice,HC 07 Detva ,7,1,," Piatok 19.10.2018, 17:30"," 13. kolo, Číslo zápasu 74", STEEL Arena Košice, 3137 divákov,2018-10-19 17:30:00,3137.0,KE,DT
+74,MsHK DOXXbet Žilina,DVTK Jegesmedvék Miskolc,4,1,," Štvrtok 18.10.2018, 17:00"," 13. kolo, Číslo zápasu 75", ZŠ Žilina, 414 divákov,2018-10-18 17:00:00,414.0,ZI,MI
+75,HK Nitra,MHC MIKRON Nové Zámky ,5,3,," Piatok 19.10.2018, 18:00"," 13. kolo, Číslo zápasu 76", Nitra Aréna, 2929 divákov,2018-10-19 18:00:00,2929.0,NR,NZ
+76,MAC Újbuda ,HK Poprad,3,2,," Utorok 16.10.2018, 19:00"," 13. kolo, Číslo zápasu 77"," Ice rink MAC Budapest, HUN", 450 divákov,2018-10-16 19:00:00,450.0,BU,PP
+77,HK DUKLA Trenčín,HC ‘05 iClinic Banská Bystrica,2,0,," Piatok 19.10.2018, 18:00"," 13. kolo, Číslo zápasu 78"," ZŠ Pavla Demitru, Trenčín", 3962 divákov,2018-10-19 18:00:00,3962.0,TN,BB
+78,MHk 32 Liptovský Mikuláš,HK DUKLA Trenčín,1,3,," Nedeľa 21.10.2018, 15:00"," 14. kolo, Číslo zápasu 79", ZŠ Spišská Nová Ves, 365 divákov,2018-10-21 15:00:00,365.0,LM,TN
+79,HC ‘05 iClinic Banská Bystrica,MAC Újbuda ,2,0,," Utorok 25.09.2018, 17:30"," 14. kolo, Číslo zápasu 80", ZŠ Banská Bystrica, 2289 divákov,2018-09-25 17:30:00,2289.0,BB,BU
+80,HK Poprad,HK Nitra,3,2,," Nedeľa 21.10.2018, 16:00"," 14. kolo, Číslo zápasu 81", ZŠ Poprad, 1023 divákov,2018-10-21 16:00:00,1023.0,PP,NR
+81,MHC MIKRON Nové Zámky ,MsHK DOXXbet Žilina,4,2,," Nedeľa 21.10.2018, 16:00"," 14. kolo, Číslo zápasu 82", ZŠ Nové Zámky, 1123 divákov,2018-10-21 16:00:00,1123.0,NZ,ZI
+82,HC Košice,DVTK Jegesmedvék Miskolc,4,2,," Nedeľa 21.10.2018, 17:00"," 14. kolo, Číslo zápasu 83", STEEL Arena Košice, 3946 divákov,2018-10-21 17:00:00,3946.0,KE,MI
+83,HC 07 Detva ,HKM Zvolen,2,5,," Nedeľa 21.10.2018, 17:30"," 14. kolo, Číslo zápasu 84", ZŠ Detva, 1058 divákov,2018-10-21 17:30:00,1058.0,DT,ZV
+84,HC 07 Detva ,MHk 32 Liptovský Mikuláš,2,3,," Utorok 23.10.2018, 18:00"," 15. kolo, Číslo zápasu 85", ZŠ Detva, 330 divákov,2018-10-23 18:00:00,330.0,DT,LM
+85,HKM Zvolen,DVTK Jegesmedvék Miskolc,2,1,pp," Utorok 23.10.2018, 18:00"," 15. kolo, Číslo zápasu 86", ZŠ Zvolen, 1615 divákov,2018-10-23 18:00:00,1615.0,ZV,MI
+86,HC Košice,MHC MIKRON Nové Zámky ,4,0,," Utorok 16.10.2018, 17:30"," 15. kolo, Číslo zápasu 87", STEEL Arena Košice, 3020 divákov,2018-10-16 17:30:00,3020.0,KE,NZ
+87,MsHK DOXXbet Žilina,HK Poprad,3,7,," Utorok 23.10.2018, 17:30"," 15. kolo, Číslo zápasu 88", ZŠ Žilina, 512 divákov,2018-10-23 17:30:00,512.0,ZI,PP
+88,HK Nitra,HC ‘05 iClinic Banská Bystrica,2,3,," Utorok 23.10.2018, 18:00"," 15. kolo, Číslo zápasu 89", Nitra Aréna, 2385 divákov,2018-10-23 18:00:00,2385.0,NR,BB
+89,MAC Újbuda ,HK DUKLA Trenčín,5,2,," Streda 24.10.2018, 19:00"," 15. kolo, Číslo zápasu 90"," Ice rink MAC Budapest, HUN", 90 divákov,2018-10-24 19:00:00,90.0,BU,TN
+90,MHk 32 Liptovský Mikuláš,MAC Újbuda ,4,1,," Piatok 26.10.2018, 17:00"," 16. kolo, Číslo zápasu 91", ZŠ Spišská Nová Ves, 328 divákov,2018-10-26 17:00:00,328.0,LM,BU
+91,HK DUKLA Trenčín,HK Nitra,2,1,," Piatok 26.10.2018, 18:00"," 16. kolo, Číslo zápasu 92"," ZŠ Pavla Demitru, Trenčín", 4126 divákov,2018-10-26 18:00:00,4126.0,TN,NR
+92,HC ‘05 iClinic Banská Bystrica,MsHK DOXXbet Žilina,2,1,," Piatok 26.10.2018, 17:30"," 16. kolo, Číslo zápasu 93", ZŠ Banská Bystrica, 2344 divákov,2018-10-26 17:30:00,2344.0,BB,ZI
+93,HK Poprad,HC Košice,2,5,," Piatok 26.10.2018, 17:00"," 16. kolo, Číslo zápasu 94", ZŠ Poprad, 1906 divákov,2018-10-26 17:00:00,1906.0,PP,KE
+94,MHC MIKRON Nové Zámky ,HKM Zvolen,2,4,," Piatok 26.10.2018, 18:30"," 16. kolo, Číslo zápasu 95", ZŠ Nové Zámky, 2165 divákov,2018-10-26 18:30:00,2165.0,NZ,ZV
+95,DVTK Jegesmedvék Miskolc,HC 07 Detva ,5,4,pp," Piatok 26.10.2018, 18:30"," 16. kolo, Číslo zápasu 96"," Ice rink Miskolc, HUN", 985 divákov,2018-10-26 18:30:00,985.0,MI,DT
+96,DVTK Jegesmedvék Miskolc,MHk 32 Liptovský Mikuláš,2,4,," Nedeľa 28.10.2018, 17:30"," 17. kolo, Číslo zápasu 97"," Ice rink Miskolc, HUN", 1125 divákov,2018-10-28 17:30:00,1125.0,MI,LM
+97,HC 07 Detva ,MHC MIKRON Nové Zámky ,1,3,," Nedeľa 28.10.2018, 17:30"," 17. kolo, Číslo zápasu 98", ZŠ Detva, 603 divákov,2018-10-28 17:30:00,603.0,DT,NZ
+98,HKM Zvolen,HK Poprad,3,4,," Nedeľa 28.10.2018, 17:00"," 17. kolo, Číslo zápasu 99", ZŠ Zvolen, 2086 divákov,2018-10-28 17:00:00,2086.0,ZV,PP
+99,HC Košice,HC ‘05 iClinic Banská Bystrica,1,3,," Nedeľa 28.10.2018, 16:00"," 17. kolo, Číslo zápasu 100", STEEL Arena Košice, 4916 divákov,2018-10-28 16:00:00,4916.0,KE,BB
+100,MsHK DOXXbet Žilina,HK DUKLA Trenčín,1,0,sn," Nedeľa 28.10.2018, 17:00"," 17. kolo, Číslo zápasu 101", ZŠ Žilina, 1329 divákov,2018-10-28 17:00:00,1329.0,ZI,TN
+101,HC ‘05 iClinic Banská Bystrica,HK Nitra,2,3,pp," Piatok 08.09.2017, 17:30"," 1. kolo, Číslo zápasu 1", ZŠ Banská Bystrica, 2548 divákov,2017-09-08 17:30:00,2548.0,BB,NR
+102,MsHK DOXXbet Žilina,HK Poprad,1,2,pp," Piatok 08.09.2017, 18:00"," 1. kolo, Číslo zápasu 2", _,Prehľad,2017-09-08 18:00:00,,ZI,PP
+103,HK DUKLA Trenčín,MHK 32 Liptovský Mikuláš,4,1,," Piatok 08.09.2017, 18:00"," 1. kolo, Číslo zápasu 3"," ZŠ Pavla Demitru, Trenčín", 1965 divákov,2017-09-08 18:00:00,1965.0,TN,LM
+104,HC Košice,HC 07 Detva,1,0,," Piatok 08.09.2017, 18:30"," 1. kolo, Číslo zápasu 4", STEEL Arena Košice, 4327 divákov,2017-09-08 18:30:00,4327.0,KE,DT
+105,HC Nové Zámky ,HKM Zvolen,5,1,," Piatok 08.09.2017, 18:30"," 1. kolo, Číslo zápasu 5", ZŠ Nové Zámky, 1852 divákov,2017-09-08 18:30:00,1852.0,NZ,ZV
+106,HK Nitra,HKM Zvolen,6,1,," Nedeľa 10.09.2017, 16:00"," 2. kolo, Číslo zápasu 6", Nitra Aréna, 3033 divákov,2017-09-10 16:00:00,3033.0,NR,ZV
+107,HC 07 Detva,HC Nové Zámky ,2,3,pp," Nedeľa 10.09.2017, 17:00"," 2. kolo, Číslo zápasu 7", ZŠ Detva, 984 divákov,2017-09-10 17:00:00,984.0,DT,NZ
+108,HC Košice,MHK 32 Liptovský Mikuláš,2,3,sn," Nedeľa 10.09.2017, 17:00"," 2. kolo, Číslo zápasu 8", STEEL Arena Košice, 3056 divákov,2017-09-10 17:00:00,3056.0,KE,LM
+109,HK Poprad,HK DUKLA Trenčín,2,3,," Nedeľa 10.09.2017, 16:00"," 2. kolo, Číslo zápasu 9", ZŠ Poprad, 1208 divákov,2017-09-10 16:00:00,1208.0,PP,TN
+110,HC ‘05 iClinic Banská Bystrica,MsHK DOXXbet Žilina,4,3,," Nedeľa 10.09.2017, 17:00"," 2. kolo, Číslo zápasu 10", ZŠ Banská Bystrica, 2188 divákov,2017-09-10 17:00:00,2188.0,BB,ZI
+111,MsHK DOXXbet Žilina,HK Nitra,10,4,," Piatok 15.09.2017, 18:00"," 3. kolo, Číslo zápasu 11", _,Prehľad,2017-09-15 18:00:00,,ZI,NR
+112,HK DUKLA Trenčín,HC ‘05 iClinic Banská Bystrica,3,2,pp," Piatok 15.09.2017, 17:00"," 3. kolo, Číslo zápasu 12"," ZŠ Pavla Demitru, Trenčín", 2680 divákov,2017-09-15 17:00:00,2680.0,TN,BB
+113,HC Košice,HK Poprad,5,2,," Piatok 15.09.2017, 17:00"," 3. kolo, Číslo zápasu 13", STEEL Arena Košice, 3567 divákov,2017-09-15 17:00:00,3567.0,KE,PP
+114,HC Nové Zámky ,MHK 32 Liptovský Mikuláš,0,3,," Piatok 15.09.2017, 18:30"," 3. kolo, Číslo zápasu 14", ZŠ Nové Zámky, 1873 divákov,2017-09-15 18:30:00,1873.0,NZ,LM
+115,HKM Zvolen,HC 07 Detva,5,4,," Piatok 15.09.2017, 17:00"," 3. kolo, Číslo zápasu 15", ZŠ Zvolen, 4080 divákov,2017-09-15 17:00:00,4080.0,ZV,DT
+116,HK Nitra,HC 07 Detva,5,2,," Nedeľa 17.09.2017, 16:00"," 4. kolo, Číslo zápasu 16", Nitra Aréna, 2545 divákov,2017-09-17 16:00:00,2545.0,NR,DT
+117,MHK 32 Liptovský Mikuláš,HKM Zvolen,0,3,," Nedeľa 17.09.2017, 15:00"," 4. kolo, Číslo zápasu 17", ZŠ Lipt. Mikuláš, 1400 divákov,2017-09-17 15:00:00,1400.0,LM,ZV
+118,HK Poprad,HC Nové Zámky ,3,1,," Nedeľa 17.09.2017, 17:00"," 4. kolo, Číslo zápasu 18", ZŠ Poprad, 1118 divákov,2017-09-17 17:00:00,1118.0,PP,NZ
+119,HC ‘05 iClinic Banská Bystrica,HC Košice,2,1,," Nedeľa 17.09.2017, 17:00"," 4. kolo, Číslo zápasu 19", ZŠ Banská Bystrica, 2457 divákov,2017-09-17 17:00:00,2457.0,BB,KE
+120,MsHK DOXXbet Žilina,HK DUKLA Trenčín,0,3,," Nedeľa 17.09.2017, 17:00"," 4. kolo, Číslo zápasu 20", _,Prehľad,2017-09-17 17:00:00,,ZI,TN
+121,HK DUKLA Trenčín,HK Nitra,4,0,," Piatok 22.09.2017, 18:00"," 5. kolo, Číslo zápasu 21"," ZŠ Pavla Demitru, Trenčín", 3347 divákov,2017-09-22 18:00:00,3347.0,TN,NR
+122,HC Košice,MsHK DOXXbet Žilina,6,3,," Piatok 22.09.2017, 17:30"," 5. kolo, Číslo zápasu 22", STEEL Arena Košice, 3186 divákov,2017-09-22 17:30:00,3186.0,KE,ZI
+123,HC Nové Zámky ,HC ‘05 iClinic Banská Bystrica,3,2,pp," Piatok 22.09.2017, 18:30"," 5. kolo, Číslo zápasu 23", ZŠ Nové Zámky, 1342 divákov,2017-09-22 18:30:00,1342.0,NZ,BB
+124,HKM Zvolen,HK Poprad,2,3,pp," Piatok 22.09.2017, 18:00"," 5. kolo, Číslo zápasu 24", ZŠ Zvolen, 1050 divákov,2017-09-22 18:00:00,1050.0,ZV,PP
+125,HC 07 Detva,MHK 32 Liptovský Mikuláš,1,5,," Piatok 22.09.2017, 18:00"," 5. kolo, Číslo zápasu 25", ZŠ Detva, 685 divákov,2017-09-22 18:00:00,685.0,DT,LM
+126,HK Nitra,MHK 32 Liptovský Mikuláš,3,2,," Nedeľa 24.09.2017, 16:00"," 6. kolo, Číslo zápasu 26", Nitra Aréna, 2216 divákov,2017-09-24 16:00:00,2216.0,NR,LM
+127,HK Poprad,HC 07 Detva,4,1,," Nedeľa 24.09.2017, 17:00"," 6. kolo, Číslo zápasu 27", ZŠ Poprad, 1314 divákov,2017-09-24 17:00:00,1314.0,PP,DT
+128,HC ‘05 iClinic Banská Bystrica,HKM Zvolen,4,2,," Nedeľa 24.09.2017, 17:00"," 6. kolo, Číslo zápasu 28", ZŠ Banská Bystrica, 2827 divákov,2017-09-24 17:00:00,2827.0,BB,ZV
+129,MsHK DOXXbet Žilina,HC Nové Zámky ,3,1,," Nedeľa 24.09.2017, 16:30"," 6. kolo, Číslo zápasu 29", _, 716 divákov,2017-09-24 16:30:00,716.0,ZI,NZ
+130,HK DUKLA Trenčín,HC Košice,3,1,," Nedeľa 24.09.2017, 17:15"," 6. kolo, Číslo zápasu 30"," ZŠ Pavla Demitru, Trenčín", 3186 divákov,2017-09-24 17:15:00,3186.0,TN,KE
+131,HC Košice,HK Nitra,4,1,," Piatok 29.09.2017, 17:30"," 7. kolo, Číslo zápasu 31", STEEL Arena Košice, 3896 divákov,2017-09-29 17:30:00,3896.0,KE,NR
+132,HC Nové Zámky ,HK DUKLA Trenčín,1,3,," Piatok 29.09.2017, 18:30"," 7. kolo, Číslo zápasu 32", ZŠ Nové Zámky, 1678 divákov,2017-09-29 18:30:00,1678.0,NZ,TN
+133,HKM Zvolen,MsHK DOXXbet Žilina,3,2,sn," Piatok 29.09.2017, 18:00"," 7. kolo, Číslo zápasu 33", ZŠ Zvolen, 990 divákov,2017-09-29 18:00:00,990.0,ZV,ZI
+134,HC 07 Detva,HC ‘05 iClinic Banská Bystrica,0,3,," Piatok 29.09.2017, 18:00"," 7. kolo, Číslo zápasu 34", ZŠ Detva, 1097 divákov,2017-09-29 18:00:00,1097.0,DT,BB
+135,MHK 32 Liptovský Mikuláš,HK Poprad,1,2,pp," Piatok 29.09.2017, 17:00"," 7. kolo, Číslo zápasu 35", ZŠ Lipt. Mikuláš, 1200 divákov,2017-09-29 17:00:00,1200.0,LM,PP
+136,HK Nitra,HK Poprad,3,4,sn," Nedeľa 01.10.2017, 16:00"," 8. kolo, Číslo zápasu 36", Nitra Aréna, 1730 divákov,2017-10-01 16:00:00,1730.0,NR,PP
+137,HC ‘05 iClinic Banská Bystrica,MHK 32 Liptovský Mikuláš,5,2,," Nedeľa 01.10.2017, 17:00"," 8. kolo, Číslo zápasu 37", ZŠ Banská Bystrica, 2261 divákov,2017-10-01 17:00:00,2261.0,BB,LM
+138,MsHK DOXXbet Žilina,HC 07 Detva,5,2,," Nedeľa 01.10.2017, 17:00"," 8. kolo, Číslo zápasu 38", _, 567 divákov,2017-10-01 17:00:00,567.0,ZI,DT
+139,HK DUKLA Trenčín,HKM Zvolen,3,1,," Nedeľa 01.10.2017, 17:00"," 8. kolo, Číslo zápasu 39"," ZŠ Pavla Demitru, Trenčín", 2670 divákov,2017-10-01 17:00:00,2670.0,TN,ZV
+140,HC Košice,HC Nové Zámky ,4,3,," Nedeľa 01.10.2017, 17:00"," 8. kolo, Číslo zápasu 40", STEEL Arena Košice, 2961 divákov,2017-10-01 17:00:00,2961.0,KE,NZ
+141,HC Nové Zámky ,HK Nitra,6,4,," Piatok 06.10.2017, 18:30"," 9. kolo, Číslo zápasu 41", ZŠ Nové Zámky, 1945 divákov,2017-10-06 18:30:00,1945.0,NZ,NR
+142,HKM Zvolen,HC Košice,4,1,," Piatok 06.10.2017, 18:00"," 9. kolo, Číslo zápasu 42", ZŠ Zvolen, 1226 divákov,2017-10-06 18:00:00,1226.0,ZV,KE
+143,HC 07 Detva,HK DUKLA Trenčín,0,2,," Piatok 06.10.2017, 18:00"," 9. kolo, Číslo zápasu 43", ZŠ Detva, 624 divákov,2017-10-06 18:00:00,624.0,DT,TN
+144,MHK 32 Liptovský Mikuláš,MsHK DOXXbet Žilina,2,1,," Piatok 06.10.2017, 17:00"," 9. kolo, Číslo zápasu 44", ZŠ Lipt. Mikuláš, 1100 divákov,2017-10-06 17:00:00,1100.0,LM,ZI
+145,HK Poprad,HC ‘05 iClinic Banská Bystrica,6,4,," Piatok 06.10.2017, 17:00"," 9. kolo, Číslo zápasu 45", ZŠ Poprad, 1680 divákov,2017-10-06 17:00:00,1680.0,PP,BB
+146,HK Nitra,HC ‘05 iClinic Banská Bystrica,1,7,," Nedeľa 08.10.2017, 16:00"," 10. kolo, Číslo zápasu 46", Nitra Aréna, 2281 divákov,2017-10-08 16:00:00,2281.0,NR,BB
+147,HK Poprad,MsHK DOXXbet Žilina,3,2,," Nedeľa 08.10.2017, 17:00"," 10. kolo, Číslo zápasu 47", ZŠ Poprad, 1169 divákov,2017-10-08 17:00:00,1169.0,PP,ZI
+148,MHK 32 Liptovský Mikuláš,HK DUKLA Trenčín,0,2,," Nedeľa 08.10.2017, 15:00"," 10. kolo, Číslo zápasu 48", ZŠ Lipt. Mikuláš, 950 divákov,2017-10-08 15:00:00,950.0,LM,TN
+149,HC 07 Detva,HC Košice,2,3,," Nedeľa 08.10.2017, 17:00"," 10. kolo, Číslo zápasu 49", ZŠ Detva, 612 divákov,2017-10-08 17:00:00,612.0,DT,KE
+150,HKM Zvolen,HC Nové Zámky ,4,1,," Nedeľa 08.10.2017, 17:00"," 10. kolo, Číslo zápasu 50", ZŠ Zvolen, 1170 divákov,2017-10-08 17:00:00,1170.0,ZV,NZ
+151,HKM Zvolen,HK Nitra,3,4,sn," Piatok 13.10.2017, 18:00"," 11. kolo, Číslo zápasu 51", ZŠ Zvolen, 1518 divákov,2017-10-13 18:00:00,1518.0,ZV,NR
+152,HC Nové Zámky ,HC 07 Detva,3,1,," Piatok 13.10.2017, 18:30"," 11. kolo, Číslo zápasu 52", ZŠ Nové Zámky, 1242 divákov,2017-10-13 18:30:00,1242.0,NZ,DT
+153,MHK 32 Liptovský Mikuláš,HC Košice,5,3,," Piatok 13.10.2017, 17:00"," 11. kolo, Číslo zápasu 53", ZŠ Lipt. Mikuláš, 850 divákov,2017-10-13 17:00:00,850.0,LM,KE
+154,HK DUKLA Trenčín,HK Poprad,3,2,pp," Piatok 13.10.2017, 18:00"," 11. kolo, Číslo zápasu 54"," ZŠ Pavla Demitru, Trenčín", 3259 divákov,2017-10-13 18:00:00,3259.0,TN,PP
+155,MsHK DOXXbet Žilina,HC ‘05 iClinic Banská Bystrica,3,1,," Utorok 17.10.2017, 18:00"," 11. kolo, Číslo zápasu 55", _, 1217 divákov,2017-10-17 18:00:00,1217.0,ZI,BB
+156,HK Nitra,MsHK DOXXbet Žilina,2,3,," Nedeľa 15.10.2017, 16:00"," 12. kolo, Číslo zápasu 56", Nitra Aréna, 1754 divákov,2017-10-15 16:00:00,1754.0,NR,ZI
+157,HC ‘05 iClinic Banská Bystrica,HK DUKLA Trenčín,5,2,," Nedeľa 15.10.2017, 17:00"," 12. kolo, Číslo zápasu 57", ZŠ Banská Bystrica, 2841 divákov,2017-10-15 17:00:00,2841.0,BB,TN
+158,HK Poprad,HC Košice,0,1,," Nedeľa 15.10.2017, 17:00"," 12. kolo, Číslo zápasu 58", ZŠ Poprad, 2248 divákov,2017-10-15 17:00:00,2248.0,PP,KE
+159,MHK 32 Liptovský Mikuláš,HC Nové Zámky ,1,3,," Nedeľa 15.10.2017, 15:00"," 12. kolo, Číslo zápasu 59", ZŠ Lipt. Mikuláš, 600 divákov,2017-10-15 15:00:00,600.0,LM,NZ
+160,HC 07 Detva,HKM Zvolen,0,5,," Nedeľa 15.10.2017, 16:00"," 12. kolo, Číslo zápasu 60", ZŠ Detva, 1024 divákov,2017-10-15 16:00:00,1024.0,DT,ZV
+161,HC 07 Detva,HK Nitra,0,7,," Piatok 20.10.2017, 18:00"," 13. kolo, Číslo zápasu 61", ZŠ Detva, 560 divákov,2017-10-20 18:00:00,560.0,DT,NR
+162,HKM Zvolen,MHK 32 Liptovský Mikuláš,5,3,," Piatok 20.10.2017, 18:00"," 13. kolo, Číslo zápasu 62", ZŠ Zvolen, 1073 divákov,2017-10-20 18:00:00,1073.0,ZV,LM
+163,HC Nové Zámky ,HK Poprad,5,0,," Piatok 20.10.2017, 18:30"," 13. kolo, Číslo zápasu 63", ZŠ Nové Zámky, 1344 divákov,2017-10-20 18:30:00,1344.0,NZ,PP
+164,HC Košice,HC ‘05 iClinic Banská Bystrica,5,2,," Piatok 20.10.2017, 17:30"," 13. kolo, Číslo zápasu 64", STEEL Arena Košice, 4734 divákov,2017-10-20 17:30:00,4734.0,KE,BB
+165,HK DUKLA Trenčín,MsHK DOXXbet Žilina,7,0,," Piatok 20.10.2017, 18:00"," 13. kolo, Číslo zápasu 65"," ZŠ Pavla Demitru, Trenčín", 2857 divákov,2017-10-20 18:00:00,2857.0,TN,ZI
+166,HK Nitra,HK DUKLA Trenčín,3,4,pp," Nedeľa 22.10.2017, 16:00"," 14. kolo, Číslo zápasu 66", Nitra Aréna, 3033 divákov,2017-10-22 16:00:00,3033.0,NR,TN
+167,MsHK DOXXbet Žilina,HC Košice,2,3,," Nedeľa 22.10.2017, 17:00"," 14. kolo, Číslo zápasu 67", _, 761 divákov,2017-10-22 17:00:00,761.0,ZI,KE
+168,HC ‘05 iClinic Banská Bystrica,HC Nové Zámky ,8,3,," Nedeľa 22.10.2017, 16:00"," 14. kolo, Číslo zápasu 68", ZŠ Banská Bystrica, 2522 divákov,2017-10-22 16:00:00,2522.0,BB,NZ
+169,HK Poprad,HKM Zvolen,1,4,," Nedeľa 22.10.2017, 17:00"," 14. kolo, Číslo zápasu 69", ZŠ Poprad, 1193 divákov,2017-10-22 17:00:00,1193.0,PP,ZV
+170,MHK 32 Liptovský Mikuláš,HC 07 Detva,6,2,," Nedeľa 22.10.2017, 15:00"," 14. kolo, Číslo zápasu 70", ZŠ Lipt. Mikuláš, 950 divákov,2017-10-22 15:00:00,950.0,LM,DT
+171,MHK 32 Liptovský Mikuláš,HK Nitra,1,2,," Piatok 27.10.2017, 17:00"," 15. kolo, Číslo zápasu 71", ZŠ Lipt. Mikuláš, 989 divákov,2017-10-27 17:00:00,989.0,LM,NR
+172,HC 07 Detva,HK Poprad,7,3,," Piatok 27.10.2017, 18:00"," 15. kolo, Číslo zápasu 72", ZŠ Detva, 421 divákov,2017-10-27 18:00:00,421.0,DT,PP
+173,HKM Zvolen,HC ‘05 iClinic Banská Bystrica,3,2,," Piatok 27.10.2017, 18:00"," 15. kolo, Číslo zápasu 73", ZŠ Zvolen, 3105 divákov,2017-10-27 18:00:00,3105.0,ZV,BB
+174,HC Nové Zámky ,MsHK DOXXbet Žilina,0,3,," Piatok 27.10.2017, 18:30"," 15. kolo, Číslo zápasu 74", ZŠ Nové Zámky, 1834 divákov,2017-10-27 18:30:00,1834.0,NZ,ZI
+175,HC Košice,HK DUKLA Trenčín,5,1,," Piatok 27.10.2017, 17:30"," 15. kolo, Číslo zápasu 75", STEEL Arena Košice, 6087 divákov,2017-10-27 17:30:00,6087.0,KE,TN
+176,HK Nitra,HC Košice,4,2,," Nedeľa 29.10.2017, 16:00"," 16. kolo, Číslo zápasu 76", Nitra Aréna, 2463 divákov,2017-10-29 16:00:00,2463.0,NR,KE
+177,HK DUKLA Trenčín,HC Nové Zámky ,3,0,," Nedeľa 29.10.2017, 15:00"," 16. kolo, Číslo zápasu 77"," ZŠ Pavla Demitru, Trenčín", 2430 divákov,2017-10-29 15:00:00,2430.0,TN,NZ
+178,MsHK DOXXbet Žilina,HKM Zvolen,4,1,," Nedeľa 29.10.2017, 17:00"," 16. kolo, Číslo zápasu 78", _, 879 divákov,2017-10-29 17:00:00,879.0,ZI,ZV
+179,HC ‘05 iClinic Banská Bystrica,HC 07 Detva,8,2,," Nedeľa 29.10.2017, 17:00"," 16. kolo, Číslo zápasu 79", ZŠ Banská Bystrica, 2771 divákov,2017-10-29 17:00:00,2771.0,BB,DT
+180,HK Poprad,MHK 32 Liptovský Mikuláš,2,1,," Nedeľa 29.10.2017, 17:00"," 16. kolo, Číslo zápasu 80", ZŠ Poprad, 1246 divákov,2017-10-29 17:00:00,1246.0,PP,LM
+181,HK Poprad,HK Nitra,3,4,sn," Streda 01.11.2017, 17:00"," 17. kolo, Číslo zápasu 81", ZŠ Poprad, 1017 divákov,2017-11-01 17:00:00,1017.0,PP,NR
+182,MHK 32 Liptovský Mikuláš,HC ‘05 iClinic Banská Bystrica,2,3,pp," Streda 01.11.2017, 17:00"," 17. kolo, Číslo zápasu 82", ZŠ Lipt. Mikuláš, 1050 divákov,2017-11-01 17:00:00,1050.0,LM,BB
+183,HC 07 Detva,MsHK DOXXbet Žilina,1,2,sn," Streda 01.11.2017, 18:00"," 17. kolo, Číslo zápasu 83", ZŠ Detva, 512 divákov,2017-11-01 18:00:00,512.0,DT,ZI
+184,HKM Zvolen,HK DUKLA Trenčín,6,3,," Streda 01.11.2017, 17:00"," 17. kolo, Číslo zápasu 84", ZŠ Zvolen, 1888 divákov,2017-11-01 17:00:00,1888.0,ZV,TN
+185,HC Nové Zámky ,HC Košice,5,3,," Streda 01.11.2017, 16:00"," 17. kolo, Číslo zápasu 85", ZŠ Nové Zámky, 1152 divákov,2017-11-01 16:00:00,1152.0,NZ,KE
+186,HK Nitra,HC Nové Zámky ,4,0,," Piatok 03.11.2017, 18:00"," 18. kolo, Číslo zápasu 86", Nitra Aréna, 3047 divákov,2017-11-03 18:00:00,3047.0,NR,NZ
+187,HC Košice,HKM Zvolen,3,4,sn," Piatok 03.11.2017, 17:30"," 18. kolo, Číslo zápasu 87", STEEL Arena Košice, 3887 divákov,2017-11-03 17:30:00,3887.0,KE,ZV
+188,HK DUKLA Trenčín,HC 07 Detva,2,1,," Piatok 03.11.2017, 18:00"," 18. kolo, Číslo zápasu 88"," ZŠ Pavla Demitru, Trenčín", 2255 divákov,2017-11-03 18:00:00,2255.0,TN,DT
+189,MsHK DOXXbet Žilina,MHK 32 Liptovský Mikuláš,3,1,," Piatok 03.11.2017, 18:00"," 18. kolo, Číslo zápasu 89", _, 1112 divákov,2017-11-03 18:00:00,1112.0,ZI,LM
+190,HC ‘05 iClinic Banská Bystrica,HK Poprad,4,5,," Piatok 03.11.2017, 17:30"," 18. kolo, Číslo zápasu 90", ZŠ Banská Bystrica, 2321 divákov,2017-11-03 17:30:00,2321.0,BB,PP
+191,HC ‘05 iClinic Banská Bystrica,HK Nitra,3,0,," Nedeľa 05.11.2017, 16:00"," 19. kolo, Číslo zápasu 91", ZŠ Banská Bystrica, 2511 divákov,2017-11-05 16:00:00,2511.0,BB,NR
+192,MsHK DOXXbet Žilina,HK Poprad,1,2,," Nedeľa 05.11.2017, 17:00"," 19. kolo, Číslo zápasu 92", _, 892 divákov,2017-11-05 17:00:00,892.0,ZI,PP
+193,HK DUKLA Trenčín,MHK 32 Liptovský Mikuláš,2,1,pp," Nedeľa 05.11.2017, 15:00"," 19. kolo, Číslo zápasu 93"," ZŠ Pavla Demitru, Trenčín", 2086 divákov,2017-11-05 15:00:00,2086.0,TN,LM
+194,HC Košice,HC 07 Detva,3,1,," Nedeľa 05.11.2017, 17:00"," 19. kolo, Číslo zápasu 94", STEEL Arena Košice, 3056 divákov,2017-11-05 17:00:00,3056.0,KE,DT
+195,HC Nové Zámky ,HKM Zvolen,3,4,sn," Nedeľa 05.11.2017, 16:00"," 19. kolo, Číslo zápasu 95", ZŠ Nové Zámky, 1168 divákov,2017-11-05 16:00:00,1168.0,NZ,ZV
+196,HK Nitra,HKM Zvolen,3,2,," Piatok 17.11.2017, 17:00"," 20. kolo, Číslo zápasu 96", Nitra Aréna, 3217 divákov,2017-11-17 17:00:00,3217.0,NR,ZV
+197,HC 07 Detva,HC Nové Zámky ,4,2,," Piatok 17.11.2017, 18:00"," 20. kolo, Číslo zápasu 97", ZŠ Detva, 754 divákov,2017-11-17 18:00:00,754.0,DT,NZ
+198,MHK 32 Liptovský Mikuláš,HC Košice,2,4,," Piatok 17.11.2017, 17:00"," 20. kolo, Číslo zápasu 98", ZŠ Lipt. Mikuláš, 1344 divákov,2017-11-17 17:00:00,1344.0,LM,KE
+199,HK Poprad,HK DUKLA Trenčín,1,2,," Piatok 17.11.2017, 17:00"," 20. kolo, Číslo zápasu 99", ZŠ Poprad, 2158 divákov,2017-11-17 17:00:00,2158.0,PP,TN
+200,HC ‘05 iClinic Banská Bystrica,MsHK DOXXbet Žilina,4,0,," Piatok 17.11.2017, 17:00"," 20. kolo, Číslo zápasu 100", ZŠ Banská Bystrica, 2548 divákov,2017-11-17 17:00:00,2548.0,BB,ZI
+201,MsHK DOXXbet Žilina,HK Nitra,2,4,," Nedeľa 19.11.2017, 17:00"," 21. kolo, Číslo zápasu 101", _, 873 divákov,2017-11-19 17:00:00,873.0,ZI,NR
+202,HK DUKLA Trenčín,HC ‘05 iClinic Banská Bystrica,4,2,," Nedeľa 19.11.2017, 16:00"," 21. kolo, Číslo zápasu 102"," ZŠ Pavla Demitru, Trenčín", 3636 divákov,2017-11-19 16:00:00,3636.0,TN,BB
+203,HC Košice,HK Poprad,3,1,," Nedeľa 19.11.2017, 17:00"," 21. kolo, Číslo zápasu 103", STEEL Arena Košice, 4527 divákov,2017-11-19 17:00:00,4527.0,KE,PP
+204,HC Nové Zámky ,MHK 32 Liptovský Mikuláš,0,4,," Nedeľa 19.11.2017, 16:00"," 21. kolo, Číslo zápasu 104", ZŠ Nové Zámky, 948 divákov,2017-11-19 16:00:00,948.0,NZ,LM
+205,HKM Zvolen,HC 07 Detva,6,2,," Nedeľa 19.11.2017, 17:00"," 21. kolo, Číslo zápasu 105", ZŠ Zvolen, 2693 divákov,2017-11-19 17:00:00,2693.0,ZV,DT
+206,HK Nitra,HC 07 Detva,4,1,," Piatok 24.11.2017, 18:00"," 22. kolo, Číslo zápasu 106", Nitra Aréna, 2395 divákov,2017-11-24 18:00:00,2395.0,NR,DT
+207,MHK 32 Liptovský Mikuláš,HKM Zvolen,5,7,," Piatok 24.11.2017, 17:00"," 22. kolo, Číslo zápasu 107", ZŠ Lipt. Mikuláš, 850 divákov,2017-11-24 17:00:00,850.0,LM,ZV
+208,HK Poprad,HC Nové Zámky ,7,5,," Piatok 24.11.2017, 17:00"," 22. kolo, Číslo zápasu 108", ZŠ Poprad, 1118 divákov,2017-11-24 17:00:00,1118.0,PP,NZ
+209,HC ‘05 iClinic Banská Bystrica,HC Košice,5,3,," Štvrtok 23.11.2017, 17:30"," 22. kolo, Číslo zápasu 109", ZŠ Banská Bystrica, 2532 divákov,2017-11-23 17:30:00,2532.0,BB,KE
+210,MsHK DOXXbet Žilina,HK DUKLA Trenčín,2,5,," Štvrtok 23.11.2017, 18:00"," 22. kolo, Číslo zápasu 110", _, 821 divákov,2017-11-23 18:00:00,821.0,ZI,TN
+211,HK DUKLA Trenčín,HK Nitra,1,4,," Sobota 25.11.2017, 17:00"," 23. kolo, Číslo zápasu 111"," ZŠ Pavla Demitru, Trenčín", 4467 divákov,2017-11-25 17:00:00,4467.0,TN,NR
+212,HC Košice,MsHK DOXXbet Žilina,5,2,," Nedeľa 26.11.2017, 16:30"," 23. kolo, Číslo zápasu 112", STEEL Arena Košice, 3374 divákov,2017-11-26 16:30:00,3374.0,KE,ZI
+213,HC Nové Zámky ,HC ‘05 iClinic Banská Bystrica,2,1,pp," Nedeľa 26.11.2017, 16:00"," 23. kolo, Číslo zápasu 113", ZŠ Nové Zámky, 843 divákov,2017-11-26 16:00:00,843.0,NZ,BB
+214,HKM Zvolen,HK Poprad,4,2,," Nedeľa 26.11.2017, 17:00"," 23. kolo, Číslo zápasu 114", ZŠ Zvolen, 1512 divákov,2017-11-26 17:00:00,1512.0,ZV,PP
+215,HC 07 Detva,MHK 32 Liptovský Mikuláš,0,1,," Nedeľa 26.11.2017, 17:00"," 23. kolo, Číslo zápasu 115", ZŠ Detva, 464 divákov,2017-11-26 17:00:00,464.0,DT,LM
+216,HK Nitra,MHK 32 Liptovský Mikuláš,3,2,pp," Piatok 01.12.2017, 18:00"," 24. kolo, Číslo zápasu 116", Nitra Aréna, 2895 divákov,2017-12-01 18:00:00,2895.0,NR,LM
+217,HK Poprad,HC 07 Detva,5,2,," Piatok 01.12.2017, 17:00"," 24. kolo, Číslo zápasu 117", ZŠ Poprad, 816 divákov,2017-12-01 17:00:00,816.0,PP,DT
+218,HC ‘05 iClinic Banská Bystrica,HKM Zvolen,2,4,," Piatok 01.12.2017, 17:30"," 24. kolo, Číslo zápasu 118", ZŠ Banská Bystrica, 2751 divákov,2017-12-01 17:30:00,2751.0,BB,ZV
+219,MsHK DOXXbet Žilina,HC Nové Zámky ,3,2,sn," Piatok 01.12.2017, 18:00"," 24. kolo, Číslo zápasu 119", _, 801 divákov,2017-12-01 18:00:00,801.0,ZI,NZ
+220,HK DUKLA Trenčín,HC Košice,2,3,pp," Piatok 01.12.2017, 18:00"," 24. kolo, Číslo zápasu 120"," ZŠ Pavla Demitru, Trenčín", 3960 divákov,2017-12-01 18:00:00,3960.0,TN,KE
+221,HC Košice,HK Nitra,7,2,," Nedeľa 03.12.2017, 17:00"," 25. kolo, Číslo zápasu 121", STEEL Arena Košice, 4699 divákov,2017-12-03 17:00:00,4699.0,KE,NR
+222,HC Nové Zámky ,HK DUKLA Trenčín,1,5,," Nedeľa 03.12.2017, 16:00"," 25. kolo, Číslo zápasu 122", ZŠ Nové Zámky, 752 divákov,2017-12-03 16:00:00,752.0,NZ,TN
+223,HKM Zvolen,MsHK DOXXbet Žilina,4,1,," Nedeľa 03.12.2017, 17:00"," 25. kolo, Číslo zápasu 123", ZŠ Zvolen, 1039 divákov,2017-12-03 17:00:00,1039.0,ZV,ZI
+224,HC 07 Detva,HC ‘05 iClinic Banská Bystrica,2,3,sn," Nedeľa 03.12.2017, 17:00"," 25. kolo, Číslo zápasu 124", ZŠ Detva, 578 divákov,2017-12-03 17:00:00,578.0,DT,BB
+225,MHK 32 Liptovský Mikuláš,HK Poprad,3,4,pp," Nedeľa 03.12.2017, 17:00"," 25. kolo, Číslo zápasu 125", ZŠ Lipt. Mikuláš, 985 divákov,2017-12-03 17:00:00,985.0,LM,PP
+226,HK Nitra,HK Poprad,3,1,," Piatok 08.12.2017, 18:00"," 26. kolo, Číslo zápasu 126", Nitra Aréna, 2467 divákov,2017-12-08 18:00:00,2467.0,NR,PP
+227,HC ‘05 iClinic Banská Bystrica,MHK 32 Liptovský Mikuláš,4,1,," Piatok 08.12.2017, 17:30"," 26. kolo, Číslo zápasu 127", ZŠ Banská Bystrica, 2157 divákov,2017-12-08 17:30:00,2157.0,BB,LM
+228,MsHK DOXXbet Žilina,HC 07 Detva,3,1,," Piatok 08.12.2017, 18:00"," 26. kolo, Číslo zápasu 128", _, 755 divákov,2017-12-08 18:00:00,755.0,ZI,DT
+229,HK DUKLA Trenčín,HKM Zvolen,3,4,pp," Piatok 08.12.2017, 18:00"," 26. kolo, Číslo zápasu 129"," ZŠ Pavla Demitru, Trenčín", 2877 divákov,2017-12-08 18:00:00,2877.0,TN,ZV
+230,HC Košice,HC Nové Zámky ,7,0,," Utorok 28.11.2017, 17:30"," 26. kolo, Číslo zápasu 130", STEEL Arena Košice, 3019 divákov,2017-11-28 17:30:00,3019.0,KE,NZ
+231,HC Nové Zámky ,HK Nitra,3,4,," Nedeľa 10.12.2017, 16:00"," 27. kolo, Číslo zápasu 131", ZŠ Nové Zámky, 1358 divákov,2017-12-10 16:00:00,1358.0,NZ,NR
+232,HKM Zvolen,HC Košice,2,0,," Nedeľa 10.12.2017, 16:00"," 27. kolo, Číslo zápasu 132", ZŠ Zvolen, 2080 divákov,2017-12-10 16:00:00,2080.0,ZV,KE
+233,HC 07 Detva,HK DUKLA Trenčín,2,6,," Nedeľa 10.12.2017, 17:00"," 27. kolo, Číslo zápasu 133", ZŠ Detva, 326 divákov,2017-12-10 17:00:00,326.0,DT,TN
+234,MHK 32 Liptovský Mikuláš,MsHK DOXXbet Žilina,2,3,," Nedeľa 10.12.2017, 17:00"," 27. kolo, Číslo zápasu 134", ZŠ Lipt. Mikuláš, 750 divákov,2017-12-10 17:00:00,750.0,LM,ZI
+235,HK Poprad,HC ‘05 iClinic Banská Bystrica,1,2,," Nedeľa 10.12.2017, 17:00"," 27. kolo, Číslo zápasu 135", ZŠ Poprad, 1215 divákov,2017-12-10 17:00:00,1215.0,PP,BB
+236,HK Nitra,HC ‘05 iClinic Banská Bystrica,1,2,," Streda 20.12.2017, 18:00"," 28. kolo, Číslo zápasu 136", Nitra Aréna, 2936 divákov,2017-12-20 18:00:00,2936.0,NR,BB
+237,HK Poprad,MsHK DOXXbet Žilina,2,0,," Streda 20.12.2017, 17:00"," 28. kolo, Číslo zápasu 137", ZŠ Poprad, 843 divákov,2017-12-20 17:00:00,843.0,PP,ZI
+238,MHK 32 Liptovský Mikuláš,HK DUKLA Trenčín,1,3,," Streda 20.12.2017, 17:00"," 28. kolo, Číslo zápasu 138", ZŠ Lipt. Mikuláš, 720 divákov,2017-12-20 17:00:00,720.0,LM,TN
+239,HC 07 Detva,HC Košice,3,5,," Streda 20.12.2017, 18:00"," 28. kolo, Číslo zápasu 139", ZŠ Detva, 293 divákov,2017-12-20 18:00:00,293.0,DT,KE
+240,HKM Zvolen,HC Nové Zámky ,4,2,," Streda 20.12.2017, 18:00"," 28. kolo, Číslo zápasu 140", ZŠ Zvolen, 1093 divákov,2017-12-20 18:00:00,1093.0,ZV,NZ
+241,HKM Zvolen,HK Nitra,4,5,sn," Piatok 22.12.2017, 18:00"," 29. kolo, Číslo zápasu 141", ZŠ Zvolen, 1678 divákov,2017-12-22 18:00:00,1678.0,ZV,NR
+242,HC Nové Zámky ,HC 07 Detva,3,1,," Piatok 22.12.2017, 18:30"," 29. kolo, Číslo zápasu 142", ZŠ Nové Zámky, 658 divákov,2017-12-22 18:30:00,658.0,NZ,DT
+243,HC Košice,MHK 32 Liptovský Mikuláš,3,2,sn," Piatok 22.12.2017, 17:30"," 29. kolo, Číslo zápasu 143", STEEL Arena Košice, 3491 divákov,2017-12-22 17:30:00,3491.0,KE,LM
+244,HK DUKLA Trenčín,HK Poprad,0,2,," Piatok 22.12.2017, 18:00"," 29. kolo, Číslo zápasu 144"," ZŠ Pavla Demitru, Trenčín", 2717 divákov,2017-12-22 18:00:00,2717.0,TN,PP
+245,MsHK DOXXbet Žilina,HC ‘05 iClinic Banská Bystrica,2,5,," Piatok 22.12.2017, 18:00"," 29. kolo, Číslo zápasu 145", _, 887 divákov,2017-12-22 18:00:00,887.0,ZI,BB
+246,HK Nitra,MsHK DOXXbet Žilina,3,5,," Utorok 26.12.2017, 16:00"," 30. kolo, Číslo zápasu 146", Nitra Aréna, 2779 divákov,2017-12-26 16:00:00,2779.0,NR,ZI
+247,HC ‘05 iClinic Banská Bystrica,HK DUKLA Trenčín,3,2,," Utorok 26.12.2017, 17:00"," 30. kolo, Číslo zápasu 147", ZŠ Banská Bystrica, 2841 divákov,2017-12-26 17:00:00,2841.0,BB,TN
+248,HK Poprad,HC Košice,4,2,," Utorok 26.12.2017, 17:00"," 30. kolo, Číslo zápasu 148", ZŠ Poprad, 3268 divákov,2017-12-26 17:00:00,3268.0,PP,KE
+249,MHK 32 Liptovský Mikuláš,HC Nové Zámky ,3,4,pp," Utorok 26.12.2017, 17:00"," 30. kolo, Číslo zápasu 149", ZŠ Lipt. Mikuláš, 1000 divákov,2017-12-26 17:00:00,1000.0,LM,NZ
+250,HC 07 Detva,HKM Zvolen,2,5,," Utorok 26.12.2017, 18:00"," 30. kolo, Číslo zápasu 150", ZŠ Detva, 1215 divákov,2017-12-26 18:00:00,1215.0,DT,ZV
+251,HK Nitra,HC 07 Detva,5,4,," Štvrtok 28.12.2017, 18:00"," 31. kolo, Číslo zápasu 151", Nitra Aréna, 2018 divákov,2017-12-28 18:00:00,2018.0,NR,DT
+252,HKM Zvolen,MHK 32 Liptovský Mikuláš,4,2,," Štvrtok 28.12.2017, 18:00"," 31. kolo, Číslo zápasu 152", ZŠ Zvolen, 1916 divákov,2017-12-28 18:00:00,1916.0,ZV,LM
+253,HC Nové Zámky ,HK Poprad,2,3,," Štvrtok 28.12.2017, 18:30"," 31. kolo, Číslo zápasu 153", ZŠ Nové Zámky, 1352 divákov,2017-12-28 18:30:00,1352.0,NZ,PP
+254,HC Košice,HC ‘05 iClinic Banská Bystrica,2,4,," Štvrtok 28.12.2017, 17:30"," 31. kolo, Číslo zápasu 154", STEEL Arena Košice, 8347 divákov,2017-12-28 17:30:00,8347.0,KE,BB
+255,HK DUKLA Trenčín,MsHK DOXXbet Žilina,3,2,," Štvrtok 28.12.2017, 18:00"," 31. kolo, Číslo zápasu 155"," ZŠ Pavla Demitru, Trenčín", 3227 divákov,2017-12-28 18:00:00,3227.0,TN,ZI
+256,HK Nitra,HK DUKLA Trenčín,5,1,," Sobota 30.12.2017, 16:00"," 32. kolo, Číslo zápasu 156", Nitra Aréna, 3360 divákov,2017-12-30 16:00:00,3360.0,NR,TN
+257,MsHK DOXXbet Žilina,HC Košice,3,2,," Sobota 30.12.2017, 17:00"," 32. kolo, Číslo zápasu 157", _, 1021 divákov,2017-12-30 17:00:00,1021.0,ZI,KE
+258,HC ‘05 iClinic Banská Bystrica,HC Nové Zámky ,8,1,," Sobota 30.12.2017, 17:00"," 32. kolo, Číslo zápasu 158", ZŠ Banská Bystrica, 2711 divákov,2017-12-30 17:00:00,2711.0,BB,NZ
+259,HK Poprad,HKM Zvolen,2,3,sn," Sobota 30.12.2017, 17:00"," 32. kolo, Číslo zápasu 159", ZŠ Poprad, 2539 divákov,2017-12-30 17:00:00,2539.0,PP,ZV
+260,MHK 32 Liptovský Mikuláš,HC 07 Detva,0,1,," Sobota 30.12.2017, 17:00"," 32. kolo, Číslo zápasu 160", ZŠ Lipt. Mikuláš, 900 divákov,2017-12-30 17:00:00,900.0,LM,DT
+261,MHK 32 Liptovský Mikuláš,HK Nitra,1,3,," Streda 03.01.2018, 17:00"," 33. kolo, Číslo zápasu 161", ZŠ Lipt. Mikuláš, 900 divákov,2018-01-03 17:00:00,900.0,LM,NR
+262,HC 07 Detva,HK Poprad,1,3,," Streda 03.01.2018, 18:00"," 33. kolo, Číslo zápasu 162", ZŠ Detva, 440 divákov,2018-01-03 18:00:00,440.0,DT,PP
+263,HKM Zvolen,HC ‘05 iClinic Banská Bystrica,1,8,," Streda 03.01.2018, 18:00"," 33. kolo, Číslo zápasu 163", ZŠ Zvolen, 3895 divákov,2018-01-03 18:00:00,3895.0,ZV,BB
+264,HC Nové Zámky ,MsHK DOXXbet Žilina,5,4,pp," Streda 03.01.2018, 18:30"," 33. kolo, Číslo zápasu 164", ZŠ Nové Zámky, 839 divákov,2018-01-03 18:30:00,839.0,NZ,ZI
+265,HC Košice,HK DUKLA Trenčín,4,2,," Streda 03.01.2018, 17:30"," 33. kolo, Číslo zápasu 165", STEEL Arena Košice, 5687 divákov,2018-01-03 17:30:00,5687.0,KE,TN
+266,HK Nitra,HC Košice,4,3,pp," Sobota 06.01.2018, 16:00"," 34. kolo, Číslo zápasu 166", Nitra Aréna, 3510 divákov,2018-01-06 16:00:00,3510.0,NR,KE
+267,HK DUKLA Trenčín,HC Nové Zámky ,3,1,," Sobota 06.01.2018, 15:00"," 34. kolo, Číslo zápasu 167"," ZŠ Pavla Demitru, Trenčín", 2452 divákov,2018-01-06 15:00:00,2452.0,TN,NZ
+268,MsHK DOXXbet Žilina,HKM Zvolen,0,3,," Sobota 06.01.2018, 17:00"," 34. kolo, Číslo zápasu 168", _, 1278 divákov,2018-01-06 17:00:00,1278.0,ZI,ZV
+269,HC ‘05 iClinic Banská Bystrica,HC 07 Detva,9,1,," Sobota 06.01.2018, 17:00"," 34. kolo, Číslo zápasu 169", ZŠ Banská Bystrica, 2841 divákov,2018-01-06 17:00:00,2841.0,BB,DT
+270,HK Poprad,MHK 32 Liptovský Mikuláš,3,2,," Sobota 06.01.2018, 17:00"," 34. kolo, Číslo zápasu 170", ZŠ Poprad, 1521 divákov,2018-01-06 17:00:00,1521.0,PP,LM
+271,HK Poprad,HK Nitra,3,4,," Nedeľa 07.01.2018, 17:00"," 35. kolo, Číslo zápasu 171", ZŠ Poprad, 1596 divákov,2018-01-07 17:00:00,1596.0,PP,NR
+272,MHK 32 Liptovský Mikuláš,HC ‘05 iClinic Banská Bystrica,4,3,sn," Nedeľa 07.01.2018, 16:00"," 35. kolo, Číslo zápasu 172", ZŠ Lipt. Mikuláš, 679 divákov,2018-01-07 16:00:00,679.0,LM,BB
+273,HC 07 Detva,MsHK DOXXbet Žilina,4,1,," Nedeľa 07.01.2018, 17:00"," 35. kolo, Číslo zápasu 173", ZŠ Detva, 300 divákov,2018-01-07 17:00:00,300.0,DT,ZI
+274,HKM Zvolen,HK DUKLA Trenčín,3,4,sn," Nedeľa 07.01.2018, 17:00"," 35. kolo, Číslo zápasu 174", ZŠ Zvolen, 1679 divákov,2018-01-07 17:00:00,1679.0,ZV,TN
+275,HC Nové Zámky ,HC Košice,1,2,pp," Nedeľa 07.01.2018, 16:00"," 35. kolo, Číslo zápasu 175", ZŠ Nové Zámky, 1120 divákov,2018-01-07 16:00:00,1120.0,NZ,KE
+276,HK Nitra,HC Nové Zámky ,5,1,," Piatok 12.01.2018, 18:00"," 36. kolo, Číslo zápasu 176", Nitra Aréna, 2817 divákov,2018-01-12 18:00:00,2817.0,NR,NZ
+277,HC Košice,HKM Zvolen,6,2,," Piatok 12.01.2018, 17:30"," 36. kolo, Číslo zápasu 177", STEEL Arena Košice, 4617 divákov,2018-01-12 17:30:00,4617.0,KE,ZV
+278,HK DUKLA Trenčín,HC 07 Detva,2,5,," Piatok 12.01.2018, 18:00"," 36. kolo, Číslo zápasu 178"," ZŠ Pavla Demitru, Trenčín", 2310 divákov,2018-01-12 18:00:00,2310.0,TN,DT
+279,MsHK DOXXbet Žilina,MHK 32 Liptovský Mikuláš,2,3,pp," Piatok 12.01.2018, 18:00"," 36. kolo, Číslo zápasu 179", _, 882 divákov,2018-01-12 18:00:00,882.0,ZI,LM
+280,HC ‘05 iClinic Banská Bystrica,HK Poprad,2,3,," Piatok 12.01.2018, 17:30"," 36. kolo, Číslo zápasu 180", ZŠ Banská Bystrica, 2527 divákov,2018-01-12 17:30:00,2527.0,BB,PP
+281,HC ‘05 iClinic Banská Bystrica,HK Nitra,6,3,," Nedeľa 14.01.2018, 16:00"," 37. kolo, Číslo zápasu 181", ZŠ Banská Bystrica, 2710 divákov,2018-01-14 16:00:00,2710.0,BB,NR
+282,MsHK DOXXbet Žilina,HK Poprad,4,2,," Nedeľa 14.01.2018, 17:00"," 37. kolo, Číslo zápasu 182", _, 801 divákov,2018-01-14 17:00:00,801.0,ZI,PP
+283,HK DUKLA Trenčín,MHK 32 Liptovský Mikuláš,1,2,," Nedeľa 14.01.2018, 17:00"," 37. kolo, Číslo zápasu 183"," ZŠ Pavla Demitru, Trenčín", 2181 divákov,2018-01-14 17:00:00,2181.0,TN,LM
+284,HC Košice,HC 07 Detva,4,3,," Nedeľa 14.01.2018, 17:00"," 37. kolo, Číslo zápasu 184", STEEL Arena Košice, 3178 divákov,2018-01-14 17:00:00,3178.0,KE,DT
+285,HC Nové Zámky ,HKM Zvolen,1,4,," Nedeľa 14.01.2018, 16:00"," 37. kolo, Číslo zápasu 185", ZŠ Nové Zámky, 834 divákov,2018-01-14 16:00:00,834.0,NZ,ZV
+286,HK Nitra,HKM Zvolen,2,1,," Piatok 19.01.2018, 18:00"," 38. kolo, Číslo zápasu 186", Nitra Aréna, 2704 divákov,2018-01-19 18:00:00,2704.0,NR,ZV
+287,HC 07 Detva,HC Nové Zámky ,0,2,," Piatok 19.01.2018, 18:00"," 38. kolo, Číslo zápasu 187", ZŠ Detva, 536 divákov,2018-01-19 18:00:00,536.0,DT,NZ
+288,MHK 32 Liptovský Mikuláš,HC Košice,2,4,," Piatok 19.01.2018, 17:00"," 38. kolo, Číslo zápasu 188", ZŠ Lipt. Mikuláš, 1464 divákov,2018-01-19 17:00:00,1464.0,LM,KE
+289,HK Poprad,HK DUKLA Trenčín,5,4,," Piatok 19.01.2018, 17:00"," 38. kolo, Číslo zápasu 189", ZŠ Poprad, 1338 divákov,2018-01-19 17:00:00,1338.0,PP,TN
+290,HC ‘05 iClinic Banská Bystrica,MsHK DOXXbet Žilina,5,2,," Piatok 19.01.2018, 17:30"," 38. kolo, Číslo zápasu 190", ZŠ Banská Bystrica, 2457 divákov,2018-01-19 17:30:00,2457.0,BB,ZI
+291,MsHK DOXXbet Žilina,HK Nitra,2,3,," Nedeľa 21.01.2018, 17:00"," 39. kolo, Číslo zápasu 191", _, 1001 divákov,2018-01-21 17:00:00,1001.0,ZI,NR
+292,HK DUKLA Trenčín,HC ‘05 iClinic Banská Bystrica,1,0,," Nedeľa 21.01.2018, 17:00"," 39. kolo, Číslo zápasu 192"," ZŠ Pavla Demitru, Trenčín", 2878 divákov,2018-01-21 17:00:00,2878.0,TN,BB
+293,HC Košice,HK Poprad,6,2,," Nedeľa 21.01.2018, 16:00"," 39. kolo, Číslo zápasu 193", STEEL Arena Košice, 4601 divákov,2018-01-21 16:00:00,4601.0,KE,PP
+294,HC Nové Zámky ,MHK 32 Liptovský Mikuláš,3,2,," Nedeľa 21.01.2018, 16:00"," 39. kolo, Číslo zápasu 194", ZŠ Nové Zámky, 1158 divákov,2018-01-21 16:00:00,1158.0,NZ,LM
+295,HKM Zvolen,HC 07 Detva,6,3,," Nedeľa 21.01.2018, 17:00"," 39. kolo, Číslo zápasu 195", ZŠ Zvolen, 2102 divákov,2018-01-21 17:00:00,2102.0,ZV,DT
+296,HC 07 Detva,HK Nitra,2,3,," Piatok 26.01.2018, 18:00"," 40. kolo, Číslo zápasu 196", ZŠ Detva, 545 divákov,2018-01-26 18:00:00,545.0,DT,NR
+297,MHK 32 Liptovský Mikuláš,HKM Zvolen,4,3,," Piatok 26.01.2018, 17:00"," 40. kolo, Číslo zápasu 197", ZŠ Lipt. Mikuláš, 850 divákov,2018-01-26 17:00:00,850.0,LM,ZV
+298,HK Poprad,HC Nové Zámky ,3,4,sn," Piatok 26.01.2018, 17:00"," 40. kolo, Číslo zápasu 198", ZŠ Poprad, 1044 divákov,2018-01-26 17:00:00,1044.0,PP,NZ
+299,HC ‘05 iClinic Banská Bystrica,HC Košice,5,2,," Piatok 26.01.2018, 17:30"," 40. kolo, Číslo zápasu 199", ZŠ Banská Bystrica, 2763 divákov,2018-01-26 17:30:00,2763.0,BB,KE
+300,MsHK DOXXbet Žilina,HK DUKLA Trenčín,2,1,," Piatok 26.01.2018, 18:00"," 40. kolo, Číslo zápasu 200", _, 1003 divákov,2018-01-26 18:00:00,1003.0,ZI,TN
+301,HK DUKLA Trenčín,HK Nitra,1,3,," Nedeľa 28.01.2018, 16:00"," 41. kolo, Číslo zápasu 201"," ZŠ Pavla Demitru, Trenčín", 3229 divákov,2018-01-28 16:00:00,3229.0,TN,NR
+302,HC Košice,MsHK DOXXbet Žilina,6,3,," Nedeľa 28.01.2018, 17:00"," 41. kolo, Číslo zápasu 202", STEEL Arena Košice, 3874 divákov,2018-01-28 17:00:00,3874.0,KE,ZI
+303,HC Nové Zámky ,HC ‘05 iClinic Banská Bystrica,3,1,," Nedeľa 28.01.2018, 16:00"," 41. kolo, Číslo zápasu 203", ZŠ Nové Zámky, 1058 divákov,2018-01-28 16:00:00,1058.0,NZ,BB
+304,HKM Zvolen,HK Poprad,5,3,," Nedeľa 28.01.2018, 17:00"," 41. kolo, Číslo zápasu 204", ZŠ Zvolen, 1189 divákov,2018-01-28 17:00:00,1189.0,ZV,PP
+305,HC 07 Detva,MHK 32 Liptovský Mikuláš,6,3,," Nedeľa 28.01.2018, 17:00"," 41. kolo, Číslo zápasu 205", ZŠ Detva, 411 divákov,2018-01-28 17:00:00,411.0,DT,LM
+306,HK Nitra,MHK 32 Liptovský Mikuláš,7,4,," Piatok 02.02.2018, 18:00"," 42. kolo, Číslo zápasu 206", Nitra Aréna, 2820 divákov,2018-02-02 18:00:00,2820.0,NR,LM
+307,HK Poprad,HC 07 Detva,0,2,," Piatok 02.02.2018, 17:00"," 42. kolo, Číslo zápasu 207", ZŠ Poprad, 793 divákov,2018-02-02 17:00:00,793.0,PP,DT
+308,HC ‘05 iClinic Banská Bystrica,HKM Zvolen,3,2,sn," Piatok 02.02.2018, 17:30"," 42. kolo, Číslo zápasu 208", ZŠ Banská Bystrica, 2841 divákov,2018-02-02 17:30:00,2841.0,BB,ZV
+309,MsHK DOXXbet Žilina,HC Nové Zámky ,3,0,," Piatok 02.02.2018, 18:00"," 42. kolo, Číslo zápasu 209", _, 802 divákov,2018-02-02 18:00:00,802.0,ZI,NZ
+310,HK DUKLA Trenčín,HC Košice,3,1,," Piatok 02.02.2018, 18:00"," 42. kolo, Číslo zápasu 210"," ZŠ Pavla Demitru, Trenčín", 3280 divákov,2018-02-02 18:00:00,3280.0,TN,KE
+311,HC Košice,HK Nitra,2,5,," Nedeľa 04.02.2018, 16:00"," 43. kolo, Číslo zápasu 211", STEEL Arena Košice, 4402 divákov,2018-02-04 16:00:00,4402.0,KE,NR
+312,HC Nové Zámky ,HK DUKLA Trenčín,0,2,," Nedeľa 04.02.2018, 16:00"," 43. kolo, Číslo zápasu 212", ZŠ Nové Zámky, 867 divákov,2018-02-04 16:00:00,867.0,NZ,TN
+313,HKM Zvolen,MsHK DOXXbet Žilina,1,2,sn," Nedeľa 04.02.2018, 17:00"," 43. kolo, Číslo zápasu 213", ZŠ Zvolen, 1191 divákov,2018-02-04 17:00:00,1191.0,ZV,ZI
+314,HC 07 Detva,HC ‘05 iClinic Banská Bystrica,6,5,," Nedeľa 04.02.2018, 17:00"," 43. kolo, Číslo zápasu 214", ZŠ Detva, 730 divákov,2018-02-04 17:00:00,730.0,DT,BB
+315,MHK 32 Liptovský Mikuláš,HK Poprad,1,3,," Nedeľa 04.02.2018, 17:00"," 43. kolo, Číslo zápasu 215", ZŠ Lipt. Mikuláš, 850 divákov,2018-02-04 17:00:00,850.0,LM,PP
+316,HK Nitra,HK Poprad,3,2,," Streda 07.02.2018, 18:00"," 44. kolo, Číslo zápasu 216", Nitra Aréna, 2257 divákov,2018-02-07 18:00:00,2257.0,NR,PP
+317,HC ‘05 iClinic Banská Bystrica,MHK 32 Liptovský Mikuláš,6,1,," Streda 07.02.2018, 17:30"," 44. kolo, Číslo zápasu 217", ZŠ Banská Bystrica, 2292 divákov,2018-02-07 17:30:00,2292.0,BB,LM
+318,MsHK DOXXbet Žilina,HC 07 Detva,4,5,pp," Streda 07.02.2018, 18:00"," 44. kolo, Číslo zápasu 218", _, 1205 divákov,2018-02-07 18:00:00,1205.0,ZI,DT
+319,HK DUKLA Trenčín,HKM Zvolen,1,3,," Streda 07.02.2018, 18:00"," 44. kolo, Číslo zápasu 219"," ZŠ Pavla Demitru, Trenčín", 2360 divákov,2018-02-07 18:00:00,2360.0,TN,ZV
+320,HC Košice,HC Nové Zámky ,3,2,sn," Streda 07.02.2018, 17:30"," 44. kolo, Číslo zápasu 220", STEEL Arena Košice, 2649 divákov,2018-02-07 17:30:00,2649.0,KE,NZ
+321,HC Nové Zámky ,HK Nitra,4,3,sn," Piatok 09.02.2018, 18:30"," 45. kolo, Číslo zápasu 221", ZŠ Nové Zámky, 1524 divákov,2018-02-09 18:30:00,1524.0,NZ,NR
+322,HKM Zvolen,HC Košice,1,2,," Piatok 09.02.2018, 18:00"," 45. kolo, Číslo zápasu 222", ZŠ Zvolen, 1325 divákov,2018-02-09 18:00:00,1325.0,ZV,KE
+323,HC 07 Detva,HK DUKLA Trenčín,0,2,," Piatok 09.02.2018, 18:00"," 45. kolo, Číslo zápasu 223", ZŠ Detva, 546 divákov,2018-02-09 18:00:00,546.0,DT,TN
+324,MHK 32 Liptovský Mikuláš,MsHK DOXXbet Žilina,3,2,," Piatok 09.02.2018, 17:00"," 45. kolo, Číslo zápasu 224", ZŠ Lipt. Mikuláš, 660 divákov,2018-02-09 17:00:00,660.0,LM,ZI
+325,HK Poprad,HC ‘05 iClinic Banská Bystrica,6,1,," Piatok 09.02.2018, 17:00"," 45. kolo, Číslo zápasu 225", ZŠ Poprad, 1098 divákov,2018-02-09 17:00:00,1098.0,PP,BB
+326,HK Nitra,HC ‘05 iClinic Banská Bystrica,1,4,," Nedeľa 11.02.2018, 16:00"," 46. kolo, Číslo zápasu 226", Nitra Aréna, 3492 divákov,2018-02-11 16:00:00,3492.0,NR,BB
+327,HK Poprad,MsHK DOXXbet Žilina,3,2,pp," Nedeľa 11.02.2018, 17:00"," 46. kolo, Číslo zápasu 227", ZŠ Poprad, 816 divákov,2018-02-11 17:00:00,816.0,PP,ZI
+328,MHK 32 Liptovský Mikuláš,HK DUKLA Trenčín,3,2,pp," Nedeľa 11.02.2018, 17:00"," 46. kolo, Číslo zápasu 228", ZŠ Lipt. Mikuláš, 750 divákov,2018-02-11 17:00:00,750.0,LM,TN
+329,HC 07 Detva,HC Košice,1,2,," Nedeľa 11.02.2018, 17:00"," 46. kolo, Číslo zápasu 229", ZŠ Detva, 511 divákov,2018-02-11 17:00:00,511.0,DT,KE
+330,HKM Zvolen,HC Nové Zámky ,6,3,," Nedeľa 11.02.2018, 17:00"," 46. kolo, Číslo zápasu 230", ZŠ Zvolen, 1030 divákov,2018-02-11 17:00:00,1030.0,ZV,NZ
+331,HKM Zvolen,HK Nitra,3,2,pp," Utorok 30.01.2018, 18:00"," 47. kolo, Číslo zápasu 231", ZŠ Zvolen, 1295 divákov,2018-01-30 18:00:00,1295.0,ZV,NR
+332,HC Nové Zámky ,HC 07 Detva,1,4,," Utorok 30.01.2018, 18:30"," 47. kolo, Číslo zápasu 232", ZŠ Nové Zámky, 869 divákov,2018-01-30 18:30:00,869.0,NZ,DT
+333,HC Košice,MHK 32 Liptovský Mikuláš,2,1,pp," Utorok 30.01.2018, 17:30"," 47. kolo, Číslo zápasu 233", STEEL Arena Košice, 2591 divákov,2018-01-30 17:30:00,2591.0,KE,LM
+334,HK DUKLA Trenčín,HK Poprad,2,1,," Utorok 30.01.2018, 18:00"," 47. kolo, Číslo zápasu 234"," ZŠ Pavla Demitru, Trenčín", 1414 divákov,2018-01-30 18:00:00,1414.0,TN,PP
+335,MsHK DOXXbet Žilina,HC ‘05 iClinic Banská Bystrica,1,2,," Utorok 30.01.2018, 18:00"," 47. kolo, Číslo zápasu 235", _, 724 divákov,2018-01-30 18:00:00,724.0,ZI,BB
+336,HK Nitra,MsHK DOXXbet Žilina,3,2,," Streda 28.02.2018, 18:00"," 48. kolo, Číslo zápasu 236", Nitra Aréna, 2034 divákov,2018-02-28 18:00:00,2034.0,NR,ZI
+337,HC ‘05 iClinic Banská Bystrica,HK DUKLA Trenčín,2,0,," Streda 28.02.2018, 17:30"," 48. kolo, Číslo zápasu 237", ZŠ Banská Bystrica, 2477 divákov,2018-02-28 17:30:00,2477.0,BB,TN
+338,HK Poprad,HC Košice,4,2,," Streda 28.02.2018, 17:00"," 48. kolo, Číslo zápasu 238", ZŠ Poprad, 1280 divákov,2018-02-28 17:00:00,1280.0,PP,KE
+339,MHK 32 Liptovský Mikuláš,HC Nové Zámky ,2,0,," Streda 28.02.2018, 17:00"," 48. kolo, Číslo zápasu 239", ZŠ Lipt. Mikuláš, 790 divákov,2018-02-28 17:00:00,790.0,LM,NZ
+340,HC 07 Detva,HKM Zvolen,1,6,," Streda 28.02.2018, 18:00"," 48. kolo, Číslo zápasu 240", ZŠ Detva, 744 divákov,2018-02-28 18:00:00,744.0,DT,ZV
+341,HC 07 Detva,HK Nitra,4,3,," Utorok 06.03.2018, 18:00"," 49. kolo, Číslo zápasu 241", ZŠ Detva, 211 divákov,2018-03-06 18:00:00,211.0,DT,NR
+342,HKM Zvolen,MHK 32 Liptovský Mikuláš,5,2,," Utorok 06.03.2018, 18:00"," 49. kolo, Číslo zápasu 242", ZŠ Zvolen, 1018 divákov,2018-03-06 18:00:00,1018.0,ZV,LM
+343,HC Nové Zámky ,HK Poprad,2,1,," Utorok 06.03.2018, 18:30"," 49. kolo, Číslo zápasu 243", ZŠ Nové Zámky, 528 divákov,2018-03-06 18:30:00,528.0,NZ,PP
+344,HC Košice,HC ‘05 iClinic Banská Bystrica,4,5,sn," Utorok 06.03.2018, 17:30"," 49. kolo, Číslo zápasu 244", STEEL Arena Košice, 4158 divákov,2018-03-06 17:30:00,4158.0,KE,BB
+345,HK DUKLA Trenčín,MsHK DOXXbet Žilina,5,0,," Utorok 06.03.2018, 18:00"," 49. kolo, Číslo zápasu 245"," ZŠ Pavla Demitru, Trenčín", 1683 divákov,2018-03-06 18:00:00,1683.0,TN,ZI
+346,HK Nitra,HK DUKLA Trenčín,4,1,," Nedeľa 25.02.2018, 16:00"," 50. kolo, Číslo zápasu 246", Nitra Aréna, 2827 divákov,2018-02-25 16:00:00,2827.0,NR,TN
+347,MsHK DOXXbet Žilina,HC Košice,3,6,," Nedeľa 25.02.2018, 17:00"," 50. kolo, Číslo zápasu 247", _, 627 divákov,2018-02-25 17:00:00,627.0,ZI,KE
+348,HC ‘05 iClinic Banská Bystrica,HC Nové Zámky ,6,2,," Nedeľa 25.02.2018, 17:00"," 50. kolo, Číslo zápasu 248", ZŠ Banská Bystrica, 2425 divákov,2018-02-25 17:00:00,2425.0,BB,NZ
+349,HK Poprad,HKM Zvolen,3,5,," Nedeľa 25.02.2018, 17:00"," 50. kolo, Číslo zápasu 249", ZŠ Poprad, 1006 divákov,2018-02-25 17:00:00,1006.0,PP,ZV
+350,MHK 32 Liptovský Mikuláš,HC 07 Detva,1,2,pp," Nedeľa 25.02.2018, 18:00"," 50. kolo, Číslo zápasu 250", ZŠ Lipt. Mikuláš, 1061 divákov,2018-02-25 18:00:00,1061.0,LM,DT
+351,MHK 32 Liptovský Mikuláš,HK Nitra,0,4,," Piatok 02.03.2018, 17:00"," 51. kolo, Číslo zápasu 251", ZŠ Lipt. Mikuláš, 823 divákov,2018-03-02 17:00:00,823.0,LM,NR
+352,HC 07 Detva,HK Poprad,3,6,," Piatok 02.03.2018, 18:00"," 51. kolo, Číslo zápasu 252", ZŠ Detva, 250 divákov,2018-03-02 18:00:00,250.0,DT,PP
+353,HKM Zvolen,HC ‘05 iClinic Banská Bystrica,4,2,," Piatok 02.03.2018, 18:00"," 51. kolo, Číslo zápasu 253", ZŠ Zvolen, 3180 divákov,2018-03-02 18:00:00,3180.0,ZV,BB
+354,HC Nové Zámky ,MsHK DOXXbet Žilina,4,7,," Piatok 02.03.2018, 18:30"," 51. kolo, Číslo zápasu 254", ZŠ Nové Zámky, 634 divákov,2018-03-02 18:30:00,634.0,NZ,ZI
+355,HC Košice,HK DUKLA Trenčín,0,3,," Piatok 02.03.2018, 17:30"," 51. kolo, Číslo zápasu 255", STEEL Arena Košice, 4250 divákov,2018-03-02 17:30:00,4250.0,KE,TN
+356,HK Nitra,HC Košice,3,1,," Nedeľa 04.03.2018, 16:00"," 52. kolo, Číslo zápasu 256", Nitra Aréna, 2884 divákov,2018-03-04 16:00:00,2884.0,NR,KE
+357,HK DUKLA Trenčín,HC Nové Zámky ,4,0,," Nedeľa 04.03.2018, 17:00"," 52. kolo, Číslo zápasu 257"," ZŠ Pavla Demitru, Trenčín", 2360 divákov,2018-03-04 17:00:00,2360.0,TN,NZ
+358,MsHK DOXXbet Žilina,HKM Zvolen,5,0,," Nedeľa 04.03.2018, 17:00"," 52. kolo, Číslo zápasu 258", _, 605 divákov,2018-03-04 17:00:00,605.0,ZI,ZV
+359,HC ‘05 iClinic Banská Bystrica,HC 07 Detva,7,2,," Nedeľa 04.03.2018, 17:00"," 52. kolo, Číslo zápasu 259", ZŠ Banská Bystrica, 2407 divákov,2018-03-04 17:00:00,2407.0,BB,DT
+360,HK Poprad,MHK 32 Liptovský Mikuláš,3,2,," Nedeľa 04.03.2018, 17:00"," 52. kolo, Číslo zápasu 260", ZŠ Poprad, 964 divákov,2018-03-04 17:00:00,964.0,PP,LM
+361,HK Poprad,HK Nitra,2,4,," Piatok 09.03.2018, 17:30"," 53. kolo, Číslo zápasu 261", ZŠ Poprad, 1142 divákov,2018-03-09 17:30:00,1142.0,PP,NR
+362,MHK 32 Liptovský Mikuláš,HC ‘05 iClinic Banská Bystrica,3,1,," Piatok 09.03.2018, 17:30"," 53. kolo, Číslo zápasu 262", ZŠ Lipt. Mikuláš, 890 divákov,2018-03-09 17:30:00,890.0,LM,BB
+363,HC 07 Detva,MsHK DOXXbet Žilina,1,4,," Piatok 09.03.2018, 17:30"," 53. kolo, Číslo zápasu 263", ZŠ Detva, 330 divákov,2018-03-09 17:30:00,330.0,DT,ZI
+364,HKM Zvolen,HK DUKLA Trenčín,4,5,," Piatok 09.03.2018, 17:30"," 53. kolo, Číslo zápasu 264", ZŠ Zvolen, 1688 divákov,2018-03-09 17:30:00,1688.0,ZV,TN
+365,HC Nové Zámky ,HC Košice,4,2,," Piatok 09.03.2018, 17:30"," 53. kolo, Číslo zápasu 265", ZŠ Nové Zámky, 832 divákov,2018-03-09 17:30:00,832.0,NZ,KE
+366,HK Nitra,HC Nové Zámky ,2,3,," Nedeľa 11.03.2018, 17:00"," 54. kolo, Číslo zápasu 266", Nitra Aréna, 2789 divákov,2018-03-11 17:00:00,2789.0,NR,NZ
+367,HC Košice,HKM Zvolen,0,3,," Nedeľa 11.03.2018, 17:00"," 54. kolo, Číslo zápasu 267", STEEL Arena Košice, 4287 divákov,2018-03-11 17:00:00,4287.0,KE,ZV
+368,HK DUKLA Trenčín,HC 07 Detva,6,4,," Nedeľa 11.03.2018, 17:00"," 54. kolo, Číslo zápasu 268"," ZŠ Pavla Demitru, Trenčín", 2227 divákov,2018-03-11 17:00:00,2227.0,TN,DT
+369,MsHK DOXXbet Žilina,MHK 32 Liptovský Mikuláš,4,3,pp," Nedeľa 11.03.2018, 17:00"," 54. kolo, Číslo zápasu 269", _, 763 divákov,2018-03-11 17:00:00,763.0,ZI,LM
+370,HC ‘05 iClinic Banská Bystrica,HK Poprad,3,4,," Nedeľa 11.03.2018, 17:00"," 54. kolo, Číslo zápasu 270", ZŠ Banská Bystrica, 2649 divákov,2018-03-11 17:00:00,2649.0,BB,PP
+371,"HK DUKLA Trenčín, a.s.",MHC Martin,5,1,," Piatok 09.09.2016, 18:00"," 1. kolo, Číslo zápasu 1"," ZŠ Pavla Demitru, Trenčín", 2121 divákov,2016-09-09 18:00:00,2121.0,TN,MT
+372,HKM a.s. Zvolen,HC Nové Zámky ,2,1,pp," Piatok 09.09.2016, 18:00"," 1. kolo, Číslo zápasu 2", ZŠ Zvolen, 1380 divákov,2016-09-09 18:00:00,1380.0,ZV,NZ
+373,MsHK Žilina,"MHk 32 Liptovský Mikuláš, a.s.",2,7,," Piatok 09.09.2016, 18:00"," 1. kolo, Číslo zápasu 3", _, 814 divákov,2016-09-09 18:00:00,814.0,ZI,LM
+374,"HK Nitra, s.r.o.",HC ‘05 iClinic Banská Bystrica,4,3,," Piatok 09.09.2016, 17:00"," 1. kolo, Číslo zápasu 4", Nitra Aréna, 2791 divákov,2016-09-09 17:00:00,2791.0,NR,BB
+375,HC Košice s.r.o.,"HK Poprad, s.r.o.",3,1,," Piatok 09.09.2016, 17:30"," 1. kolo, Číslo zápasu 5", STEEL Arena Košice, 3268 divákov,2016-09-09 17:30:00,3268.0,KE,PP
+376,MHC Martin,"HK Poprad, s.r.o.",4,1,," Nedeľa 11.09.2016, 17:00"," 2. kolo, Číslo zápasu 6", ZŠ Martin, 1400 divákov,2016-09-11 17:00:00,1400.0,MT,PP
+377,HC ‘05 iClinic Banská Bystrica,HC Košice s.r.o.,2,3,pp," Nedeľa 11.09.2016, 17:00"," 2. kolo, Číslo zápasu 7", ZŠ Banská Bystrica, 2395 divákov,2016-09-11 17:00:00,2395.0,BB,KE
+378,"MHk 32 Liptovský Mikuláš, a.s.","HK Nitra, s.r.o.",4,3,sn," Nedeľa 11.09.2016, 17:00"," 2. kolo, Číslo zápasu 8", ZŠ Lipt. Mikuláš, 3100 divákov,2016-09-11 17:00:00,3100.0,LM,NR
+379,HC Nové Zámky ,MsHK Žilina,1,0,," Nedeľa 11.09.2016, 17:00"," 2. kolo, Číslo zápasu 9", ZŠ Nové Zámky, 1458 divákov,2016-09-11 17:00:00,1458.0,NZ,ZI
+380,"HK DUKLA Trenčín, a.s.",HKM a.s. Zvolen,1,2,," Nedeľa 11.09.2016, 17:00"," 2. kolo, Číslo zápasu 10"," ZŠ Pavla Demitru, Trenčín", 1638 divákov,2016-09-11 17:00:00,1638.0,TN,ZV
+381,HKM a.s. Zvolen,MHC Martin,4,3,," Streda 14.09.2016, 18:00"," 3. kolo, Číslo zápasu 11", ZŠ Zvolen, 962 divákov,2016-09-14 18:00:00,962.0,ZV,MT
+382,MsHK Žilina,"HK DUKLA Trenčín, a.s.",2,4,," Streda 14.09.2016, 18:00"," 3. kolo, Číslo zápasu 12", _, 482 divákov,2016-09-14 18:00:00,482.0,ZI,TN
+383,"HK Nitra, s.r.o.",HC Nové Zámky ,3,1,," Streda 14.09.2016, 18:00"," 3. kolo, Číslo zápasu 13", Nitra Aréna, 3351 divákov,2016-09-14 18:00:00,3351.0,NR,NZ
+384,HC Košice s.r.o.,"MHk 32 Liptovský Mikuláš, a.s.",2,0,," Streda 14.09.2016, 17:30"," 3. kolo, Číslo zápasu 14", STEEL Arena Košice, 4350 divákov,2016-09-14 17:30:00,4350.0,KE,LM
+385,"HK Poprad, s.r.o.",HC ‘05 iClinic Banská Bystrica,2,4,," Streda 14.09.2016, 18:00"," 3. kolo, Číslo zápasu 15", ZŠ Poprad, 920 divákov,2016-09-14 18:00:00,920.0,PP,BB
+386,MHC Martin,HC ‘05 iClinic Banská Bystrica,0,2,," Piatok 16.09.2016, 18:00"," 4. kolo, Číslo zápasu 16", ZŠ Martin, 1655 divákov,2016-09-16 18:00:00,1655.0,MT,BB
+387,"MHk 32 Liptovský Mikuláš, a.s.","HK Poprad, s.r.o.",2,3,pp," Piatok 16.09.2016, 17:00"," 4. kolo, Číslo zápasu 17", ZŠ Lipt. Mikuláš, 2450 divákov,2016-09-16 17:00:00,2450.0,LM,PP
+388,HC Nové Zámky ,HC Košice s.r.o.,4,3,pp," Piatok 16.09.2016, 18:00"," 4. kolo, Číslo zápasu 18", ZŠ Nové Zámky, 1835 divákov,2016-09-16 18:00:00,1835.0,NZ,KE
+389,"HK DUKLA Trenčín, a.s.","HK Nitra, s.r.o.",2,1,sn," Piatok 16.09.2016, 18:00"," 4. kolo, Číslo zápasu 19"," ZŠ Pavla Demitru, Trenčín", 2211 divákov,2016-09-16 18:00:00,2211.0,TN,NR
+390,HKM a.s. Zvolen,MsHK Žilina,1,3,," Piatok 16.09.2016, 18:00"," 4. kolo, Číslo zápasu 20", ZŠ Zvolen, 1012 divákov,2016-09-16 18:00:00,1012.0,ZV,ZI
+391,MsHK Žilina,MHC Martin,2,4,," Nedeľa 18.09.2016, 17:00"," 5. kolo, Číslo zápasu 21", _, 1002 divákov,2016-09-18 17:00:00,1002.0,ZI,MT
+392,"HK Nitra, s.r.o.",HKM a.s. Zvolen,6,2,," Nedeľa 18.09.2016, 17:00"," 5. kolo, Číslo zápasu 22", Nitra Aréna, 2685 divákov,2016-09-18 17:00:00,2685.0,NR,ZV
+393,HC Košice s.r.o.,"HK DUKLA Trenčín, a.s.",6,0,," Nedeľa 18.09.2016, 17:00"," 5. kolo, Číslo zápasu 23", STEEL Arena Košice, 3046 divákov,2016-09-18 17:00:00,3046.0,KE,TN
+394,"HK Poprad, s.r.o.",HC Nové Zámky ,2,1,," Nedeľa 18.09.2016, 18:00"," 5. kolo, Číslo zápasu 24", ZŠ Poprad, 1078 divákov,2016-09-18 18:00:00,1078.0,PP,NZ
+395,HC ‘05 iClinic Banská Bystrica,"MHk 32 Liptovský Mikuláš, a.s.",3,2,pp," Nedeľa 18.09.2016, 17:00"," 5. kolo, Číslo zápasu 25", ZŠ Banská Bystrica, 2403 divákov,2016-09-18 17:00:00,2403.0,BB,LM
+396,MHC Martin,"MHk 32 Liptovský Mikuláš, a.s.",1,0,," Piatok 23.09.2016, 18:00"," 6. kolo, Číslo zápasu 26", ZŠ Martin, 1955 divákov,2016-09-23 18:00:00,1955.0,MT,LM
+397,HC Nové Zámky ,HC ‘05 iClinic Banská Bystrica,2,9,," Piatok 23.09.2016, 18:00"," 6. kolo, Číslo zápasu 27", ZŠ Nové Zámky, 1792 divákov,2016-09-23 18:00:00,1792.0,NZ,BB
+398,"HK DUKLA Trenčín, a.s.","HK Poprad, s.r.o.",1,2,pp," Piatok 23.09.2016, 18:00"," 6. kolo, Číslo zápasu 28"," ZŠ Pavla Demitru, Trenčín", 1987 divákov,2016-09-23 18:00:00,1987.0,TN,PP
+399,HKM a.s. Zvolen,HC Košice s.r.o.,3,6,," Piatok 23.09.2016, 18:00"," 6. kolo, Číslo zápasu 29", ZŠ Zvolen, 1020 divákov,2016-09-23 18:00:00,1020.0,ZV,KE
+400,MsHK Žilina,"HK Nitra, s.r.o.",3,2,pp," Piatok 23.09.2016, 18:00"," 6. kolo, Číslo zápasu 30", _, 516 divákov,2016-09-23 18:00:00,516.0,ZI,NR
+401,"HK Nitra, s.r.o.",MHC Martin,5,2,," Nedeľa 25.09.2016, 17:00"," 7. kolo, Číslo zápasu 31", Nitra Aréna, 2396 divákov,2016-09-25 17:00:00,2396.0,NR,MT
+402,HC Košice s.r.o.,MsHK Žilina,6,3,," Nedeľa 25.09.2016, 17:00"," 7. kolo, Číslo zápasu 32", STEEL Arena Košice, 2638 divákov,2016-09-25 17:00:00,2638.0,KE,ZI
+403,"HK Poprad, s.r.o.",HKM a.s. Zvolen,3,4,," Nedeľa 25.09.2016, 16:00"," 7. kolo, Číslo zápasu 33", ZŠ Poprad, 1003 divákov,2016-09-25 16:00:00,1003.0,PP,ZV
+404,HC ‘05 iClinic Banská Bystrica,"HK DUKLA Trenčín, a.s.",2,3,," Nedeľa 25.09.2016, 17:00"," 7. kolo, Číslo zápasu 34", ZŠ Banská Bystrica, 2184 divákov,2016-09-25 17:00:00,2184.0,BB,TN
+405,"MHk 32 Liptovský Mikuláš, a.s.",HC Nové Zámky ,3,2,," Nedeľa 25.09.2016, 17:00"," 7. kolo, Číslo zápasu 35", ZŠ Lipt. Mikuláš, 1850 divákov,2016-09-25 17:00:00,1850.0,LM,NZ
+406,MHC Martin,HC Nové Zámky ,3,0,," Piatok 30.09.2016, 18:00"," 8. kolo, Číslo zápasu 36", ZŠ Martin, 1755 divákov,2016-09-30 18:00:00,1755.0,MT,NZ
+407,"HK DUKLA Trenčín, a.s.","MHk 32 Liptovský Mikuláš, a.s.",6,1,," Piatok 30.09.2016, 18:00"," 8. kolo, Číslo zápasu 37"," ZŠ Pavla Demitru, Trenčín", 2039 divákov,2016-09-30 18:00:00,2039.0,TN,LM
+408,HKM a.s. Zvolen,HC ‘05 iClinic Banská Bystrica,5,6,," Piatok 30.09.2016, 18:00"," 8. kolo, Číslo zápasu 38", ZŠ Zvolen, 2285 divákov,2016-09-30 18:00:00,2285.0,ZV,BB
+409,MsHK Žilina,"HK Poprad, s.r.o.",9,2,," Piatok 30.09.2016, 18:00"," 8. kolo, Číslo zápasu 39", _, 459 divákov,2016-09-30 18:00:00,459.0,ZI,PP
+410,"HK Nitra, s.r.o.",HC Košice s.r.o.,6,4,," Piatok 30.09.2016, 18:00"," 8. kolo, Číslo zápasu 40", Nitra Aréna, 3133 divákov,2016-09-30 18:00:00,3133.0,NR,KE
+411,HC Nové Zámky ,MHC Martin,1,2,sn," Piatok 10.02.2017, 18:00"," 17. kolo, Číslo zápasu 81", ZŠ Nové Zámky, 865 divákov,2017-02-10 18:00:00,865.0,NZ,MT
+412,"MHk 32 Liptovský Mikuláš, a.s.","HK DUKLA Trenčín, a.s.",4,2,," Nedeľa 30.10.2016, 17:00"," 17. kolo, Číslo zápasu 82", ZŠ Lipt. Mikuláš, 2130 divákov,2016-10-30 17:00:00,2130.0,LM,TN
+413,HC ‘05 iClinic Banská Bystrica,HKM a.s. Zvolen,4,1,," Nedeľa 30.10.2016, 17:00"," 17. kolo, Číslo zápasu 83", ZŠ Banská Bystrica, 2841 divákov,2016-10-30 17:00:00,2841.0,BB,ZV
+414,"HK Poprad, s.r.o.",MsHK Žilina,1,4,," Nedeľa 30.10.2016, 16:00"," 17. kolo, Číslo zápasu 84", ZŠ Poprad, 951 divákov,2016-10-30 16:00:00,951.0,PP,ZI
+415,HC Košice s.r.o.,"HK Nitra, s.r.o.",5,2,," Utorok 25.10.2016, 17:30"," 17. kolo, Číslo zápasu 85", STEEL Arena Košice, 3558 divákov,2016-10-25 17:30:00,3558.0,KE,NR
+416,MHC Martin,HC Košice s.r.o.,3,4,sn," Piatok 11.11.2016, 18:00"," 18. kolo, Číslo zápasu 86", ZŠ Martin, 1750 divákov,2016-11-11 18:00:00,1750.0,MT,KE
+417,"HK Nitra, s.r.o.","HK Poprad, s.r.o.",2,5,," Piatok 11.11.2016, 18:00"," 18. kolo, Číslo zápasu 87", Nitra Aréna, 2541 divákov,2016-11-11 18:00:00,2541.0,NR,PP
+418,MsHK Žilina,HC ‘05 iClinic Banská Bystrica,2,6,," Piatok 11.11.2016, 18:00"," 18. kolo, Číslo zápasu 88", _, 1195 divákov,2016-11-11 18:00:00,1195.0,ZI,BB
+419,HKM a.s. Zvolen,"MHk 32 Liptovský Mikuláš, a.s.",3,4,pp," Piatok 11.11.2016, 18:00"," 18. kolo, Číslo zápasu 89", ZŠ Zvolen, 1155 divákov,2016-11-11 18:00:00,1155.0,ZV,LM
+420,"HK DUKLA Trenčín, a.s.",HC Nové Zámky ,2,3,pp," Piatok 11.11.2016, 18:00"," 18. kolo, Číslo zápasu 90"," ZŠ Pavla Demitru, Trenčín", 2073 divákov,2016-11-11 18:00:00,2073.0,TN,NZ
+421,"HK DUKLA Trenčín, a.s.",MHC Martin,3,4,," Nedeľa 13.11.2016, 17:00"," 19. kolo, Číslo zápasu 91"," ZŠ Pavla Demitru, Trenčín", 838 divákov,2016-11-13 17:00:00,838.0,TN,MT
+422,HKM a.s. Zvolen,HC Nové Zámky ,4,3,," Nedeľa 13.11.2016, 17:00"," 19. kolo, Číslo zápasu 92", ZŠ Zvolen, 1130 divákov,2016-11-13 17:00:00,1130.0,ZV,NZ
+423,MsHK Žilina,"MHk 32 Liptovský Mikuláš, a.s.",7,3,," Nedeľa 13.11.2016, 17:00"," 19. kolo, Číslo zápasu 93", _, 1398 divákov,2016-11-13 17:00:00,1398.0,ZI,LM
+424,"HK Nitra, s.r.o.",HC ‘05 iClinic Banská Bystrica,1,4,," Nedeľa 13.11.2016, 17:00"," 19. kolo, Číslo zápasu 94", Nitra Aréna, 2649 divákov,2016-11-13 17:00:00,2649.0,NR,BB
+425,HC Košice s.r.o.,"HK Poprad, s.r.o.",1,2,," Nedeľa 13.11.2016, 17:00"," 19. kolo, Číslo zápasu 95", STEEL Arena Košice, 4192 divákov,2016-11-13 17:00:00,4192.0,KE,PP
+426,MHC Martin,"HK Poprad, s.r.o.",5,4,pp," Streda 16.11.2016, 18:00"," 20. kolo, Číslo zápasu 96", ZŠ Martin, 1550 divákov,2016-11-16 18:00:00,1550.0,MT,PP
+427,HC ‘05 iClinic Banská Bystrica,HC Košice s.r.o.,2,3,," Streda 16.11.2016, 17:30"," 20. kolo, Číslo zápasu 97", ZŠ Banská Bystrica, 2841 divákov,2016-11-16 17:30:00,2841.0,BB,KE
+428,"MHk 32 Liptovský Mikuláš, a.s.","HK Nitra, s.r.o.",2,4,," Streda 16.11.2016, 17:00"," 20. kolo, Číslo zápasu 98", ZŠ Lipt. Mikuláš, 1250 divákov,2016-11-16 17:00:00,1250.0,LM,NR
+429,HC Nové Zámky ,MsHK Žilina,4,0,," Streda 16.11.2016, 18:00"," 20. kolo, Číslo zápasu 99", ZŠ Nové Zámky, 1275 divákov,2016-11-16 18:00:00,1275.0,NZ,ZI
+430,"HK DUKLA Trenčín, a.s.",HKM a.s. Zvolen,0,3,," Streda 16.11.2016, 18:00"," 20. kolo, Číslo zápasu 100"," ZŠ Pavla Demitru, Trenčín", 883 divákov,2016-11-16 18:00:00,883.0,TN,ZV
+431,HKM a.s. Zvolen,MHC Martin,2,4,," Piatok 18.11.2016, 18:00"," 21. kolo, Číslo zápasu 101", ZŠ Zvolen, 1112 divákov,2016-11-18 18:00:00,1112.0,ZV,MT
+432,MsHK Žilina,"HK DUKLA Trenčín, a.s.",3,4,pp," Piatok 18.11.2016, 18:00"," 21. kolo, Číslo zápasu 102", _, 1249 divákov,2016-11-18 18:00:00,1249.0,ZI,TN
+433,"HK Nitra, s.r.o.",HC Nové Zámky ,7,4,," Piatok 18.11.2016, 18:00"," 21. kolo, Číslo zápasu 103", Nitra Aréna, 2830 divákov,2016-11-18 18:00:00,2830.0,NR,NZ
+434,HC Košice s.r.o.,"MHk 32 Liptovský Mikuláš, a.s.",7,4,," Piatok 18.11.2016, 17:30"," 21. kolo, Číslo zápasu 104", STEEL Arena Košice, 3454 divákov,2016-11-18 17:30:00,3454.0,KE,LM
+435,"HK Poprad, s.r.o.",HC ‘05 iClinic Banská Bystrica,3,4,," Piatok 18.11.2016, 17:00"," 21. kolo, Číslo zápasu 105", ZŠ Poprad, 1601 divákov,2016-11-18 17:00:00,1601.0,PP,BB
+436,MHC Martin,HC ‘05 iClinic Banská Bystrica,0,3,," Nedeľa 20.11.2016, 17:00"," 22. kolo, Číslo zápasu 106", ZŠ Martin, 2250 divákov,2016-11-20 17:00:00,2250.0,MT,BB
+437,"MHk 32 Liptovský Mikuláš, a.s.","HK Poprad, s.r.o.",4,3,pp," Nedeľa 20.11.2016, 17:00"," 22. kolo, Číslo zápasu 107", ZŠ Lipt. Mikuláš, 1620 divákov,2016-11-20 17:00:00,1620.0,LM,PP
+438,HC Nové Zámky ,HC Košice s.r.o.,1,2,," Nedeľa 20.11.2016, 17:00"," 22. kolo, Číslo zápasu 108", ZŠ Nové Zámky, 1689 divákov,2016-11-20 17:00:00,1689.0,NZ,KE
+439,"HK DUKLA Trenčín, a.s.","HK Nitra, s.r.o.",5,1,," Nedeľa 20.11.2016, 17:00"," 22. kolo, Číslo zápasu 109"," ZŠ Pavla Demitru, Trenčín", 2063 divákov,2016-11-20 17:00:00,2063.0,TN,NR
+440,HKM a.s. Zvolen,MsHK Žilina,5,1,," Nedeľa 20.11.2016, 17:00"," 22. kolo, Číslo zápasu 110", ZŠ Zvolen, 1081 divákov,2016-11-20 17:00:00,1081.0,ZV,ZI
+441,MsHK Žilina,MHC Martin,4,1,," Piatok 25.11.2016, 18:00"," 23. kolo, Číslo zápasu 111", _, 1755 divákov,2016-11-25 18:00:00,1755.0,ZI,MT
+442,"HK Nitra, s.r.o.",HKM a.s. Zvolen,5,2,," Piatok 25.11.2016, 18:00"," 23. kolo, Číslo zápasu 112", Nitra Aréna, 2671 divákov,2016-11-25 18:00:00,2671.0,NR,ZV
+443,HC Košice s.r.o.,"HK DUKLA Trenčín, a.s.",2,1,," Utorok 22.11.2016, 17:30"," 23. kolo, Číslo zápasu 113", STEEL Arena Košice, 3334 divákov,2016-11-22 17:30:00,3334.0,KE,TN
+444,"HK Poprad, s.r.o.",HC Nové Zámky ,7,0,," Piatok 25.11.2016, 17:00"," 23. kolo, Číslo zápasu 114", ZŠ Poprad, 931 divákov,2016-11-25 17:00:00,931.0,PP,NZ
+445,HC ‘05 iClinic Banská Bystrica,"MHk 32 Liptovský Mikuláš, a.s.",2,1,," Piatok 25.11.2016, 17:30"," 23. kolo, Číslo zápasu 115", ZŠ Banská Bystrica, 2515 divákov,2016-11-25 17:30:00,2515.0,BB,LM
+446,MHC Martin,"MHk 32 Liptovský Mikuláš, a.s.",2,3,pp," Nedeľa 27.11.2016, 17:00"," 24. kolo, Číslo zápasu 116", ZŠ Martin, 1755 divákov,2016-11-27 17:00:00,1755.0,MT,LM
+447,HC Nové Zámky ,HC ‘05 iClinic Banská Bystrica,3,2,pp," Nedeľa 27.11.2016, 17:00"," 24. kolo, Číslo zápasu 117", ZŠ Nové Zámky, 1063 divákov,2016-11-27 17:00:00,1063.0,NZ,BB
+448,"HK DUKLA Trenčín, a.s.","HK Poprad, s.r.o.",3,2,," Nedeľa 27.11.2016, 17:00"," 24. kolo, Číslo zápasu 118"," ZŠ Pavla Demitru, Trenčín", 2107 divákov,2016-11-27 17:00:00,2107.0,TN,PP
+449,HKM a.s. Zvolen,HC Košice s.r.o.,4,3,sn," Nedeľa 27.11.2016, 17:00"," 24. kolo, Číslo zápasu 119", ZŠ Zvolen, 1284 divákov,2016-11-27 17:00:00,1284.0,ZV,KE
+450,MsHK Žilina,"HK Nitra, s.r.o.",4,2,," Nedeľa 27.11.2016, 17:00"," 24. kolo, Číslo zápasu 120", _, 989 divákov,2016-11-27 17:00:00,989.0,ZI,NR
+451,"HK Nitra, s.r.o.",MHC Martin,3,0,," Piatok 02.12.2016, 18:00"," 25. kolo, Číslo zápasu 121", Nitra Aréna, 2817 divákov,2016-12-02 18:00:00,2817.0,NR,MT
+452,HC Košice s.r.o.,MsHK Žilina,4,1,," Utorok 10.01.2017, 17:30"," 25. kolo, Číslo zápasu 122", STEEL Arena Košice, 2196 divákov,2017-01-10 17:30:00,2196.0,KE,ZI
+453,"HK Poprad, s.r.o.",HKM a.s. Zvolen,6,1,," Piatok 02.12.2016, 17:00"," 25. kolo, Číslo zápasu 123", ZŠ Poprad, 1043 divákov,2016-12-02 17:00:00,1043.0,PP,ZV
+454,HC ‘05 iClinic Banská Bystrica,"HK DUKLA Trenčín, a.s.",2,3,pp," Piatok 02.12.2016, 17:30"," 25. kolo, Číslo zápasu 124", ZŠ Banská Bystrica, 2263 divákov,2016-12-02 17:30:00,2263.0,BB,TN
+455,"MHk 32 Liptovský Mikuláš, a.s.",HC Nové Zámky ,2,1,pp," Piatok 02.12.2016, 17:00"," 25. kolo, Číslo zápasu 125", ZŠ Lipt. Mikuláš, 1050 divákov,2016-12-02 17:00:00,1050.0,LM,NZ
+456,MHC Martin,HC Nové Zámky ,3,4,," Nedeľa 04.12.2016, 17:00"," 26. kolo, Číslo zápasu 126", ZŠ Martin, 1555 divákov,2016-12-04 17:00:00,1555.0,MT,NZ
+457,"HK DUKLA Trenčín, a.s.","MHk 32 Liptovský Mikuláš, a.s.",0,3,," Nedeľa 04.12.2016, 17:00"," 26. kolo, Číslo zápasu 127"," ZŠ Pavla Demitru, Trenčín", 1685 divákov,2016-12-04 17:00:00,1685.0,TN,LM
+458,HKM a.s. Zvolen,HC ‘05 iClinic Banská Bystrica,2,0,," Nedeľa 04.12.2016, 17:00"," 26. kolo, Číslo zápasu 128", ZŠ Zvolen, 2100 divákov,2016-12-04 17:00:00,2100.0,ZV,BB
+459,MsHK Žilina,"HK Poprad, s.r.o.",2,1,sn," Nedeľa 04.12.2016, 17:00"," 26. kolo, Číslo zápasu 129", _, 575 divákov,2016-12-04 17:00:00,575.0,ZI,PP
+460,"HK Nitra, s.r.o.",HC Košice s.r.o.,3,2,," Nedeľa 04.12.2016, 15:00"," 26. kolo, Číslo zápasu 130", Nitra Aréna, 2787 divákov,2016-12-04 15:00:00,2787.0,NR,KE
+461,HC Košice s.r.o.,MHC Martin,7,2,," Utorok 06.12.2016, 17:30"," 27. kolo, Číslo zápasu 131", STEEL Arena Košice, 3589 divákov,2016-12-06 17:30:00,3589.0,KE,MT
+462,"HK Poprad, s.r.o.","HK Nitra, s.r.o.",4,2,," Utorok 06.12.2016, 17:00"," 27. kolo, Číslo zápasu 132", ZŠ Poprad, 1105 divákov,2016-12-06 17:00:00,1105.0,PP,NR
+463,HC ‘05 iClinic Banská Bystrica,MsHK Žilina,4,2,," Utorok 06.12.2016, 17:30"," 27. kolo, Číslo zápasu 133", ZŠ Banská Bystrica, 1862 divákov,2016-12-06 17:30:00,1862.0,BB,ZI
+464,"MHk 32 Liptovský Mikuláš, a.s.",HKM a.s. Zvolen,4,3,," Utorok 06.12.2016, 17:00"," 27. kolo, Číslo zápasu 134", ZŠ Lipt. Mikuláš, 1100 divákov,2016-12-06 17:00:00,1100.0,LM,ZV
+465,HC Nové Zámky ,"HK DUKLA Trenčín, a.s.",3,4,sn," Utorok 06.12.2016, 18:00"," 27. kolo, Číslo zápasu 135", ZŠ Nové Zámky, 758 divákov,2016-12-06 18:00:00,758.0,NZ,TN
+466,MHC Martin,"HK DUKLA Trenčín, a.s.",5,3,," Piatok 09.12.2016, 18:00"," 28. kolo, Číslo zápasu 136", ZŠ Martin, 1455 divákov,2016-12-09 18:00:00,1455.0,MT,TN
+467,HC Nové Zámky ,HKM a.s. Zvolen,3,6,," Piatok 09.12.2016, 18:00"," 28. kolo, Číslo zápasu 137", ZŠ Nové Zámky, 621 divákov,2016-12-09 18:00:00,621.0,NZ,ZV
+468,"MHk 32 Liptovský Mikuláš, a.s.",MsHK Žilina,1,4,," Piatok 09.12.2016, 17:00"," 28. kolo, Číslo zápasu 138", ZŠ Lipt. Mikuláš, 1160 divákov,2016-12-09 17:00:00,1160.0,LM,ZI
+469,"HK Poprad, s.r.o.",HC Košice s.r.o.,2,3,pp," Piatok 09.12.2016, 18:00"," 28. kolo, Číslo zápasu 140", ZŠ Poprad, 1749 divákov,2016-12-09 18:00:00,1749.0,PP,KE
+470,"HK Poprad, s.r.o.",MHC Martin,1,3,," Nedeľa 11.12.2016, 17:00"," 29. kolo, Číslo zápasu 141", ZŠ Poprad, 957 divákov,2016-12-11 17:00:00,957.0,PP,MT
+471,HC ‘05 iClinic Banská Bystrica,HC Košice s.r.o.,4,0,," Nedeľa 11.12.2016, 17:00"," 29. kolo, Číslo zápasu 142", ZŠ Banská Bystrica, 2307 divákov,2016-12-11 17:00:00,2307.0,BB,KE
+472,"HK Nitra, s.r.o.","MHk 32 Liptovský Mikuláš, a.s.",6,3,," Nedeľa 11.12.2016, 15:00"," 29. kolo, Číslo zápasu 143", Nitra Aréna, 2533 divákov,2016-12-11 15:00:00,2533.0,NR,LM
+473,MsHK Žilina,HC Nové Zámky ,7,2,," Nedeľa 11.12.2016, 18:00"," 29. kolo, Číslo zápasu 144", _, 621 divákov,2016-12-11 18:00:00,621.0,ZI,NZ
+474,HKM a.s. Zvolen,"HK DUKLA Trenčín, a.s.",6,2,," Nedeľa 11.12.2016, 17:00"," 29. kolo, Číslo zápasu 145", ZŠ Zvolen, 1159 divákov,2016-12-11 17:00:00,1159.0,ZV,TN
+475,MHC Martin,HKM a.s. Zvolen,5,3,," Utorok 20.12.2016, 18:00"," 30. kolo, Číslo zápasu 146", ZŠ Martin, 1555 divákov,2016-12-20 18:00:00,1555.0,MT,ZV
+476,"HK DUKLA Trenčín, a.s.",MsHK Žilina,3,6,," Utorok 20.12.2016, 18:00"," 30. kolo, Číslo zápasu 147"," ZŠ Pavla Demitru, Trenčín", 604 divákov,2016-12-20 18:00:00,604.0,TN,ZI
+477,HC Nové Zámky ,"HK Nitra, s.r.o.",2,3,," Utorok 20.12.2016, 18:00"," 30. kolo, Číslo zápasu 148", ZŠ Nové Zámky, 1236 divákov,2016-12-20 18:00:00,1236.0,NZ,NR
+478,"MHk 32 Liptovský Mikuláš, a.s.",HC Košice s.r.o.,3,1,," Utorok 20.12.2016, 17:00"," 30. kolo, Číslo zápasu 149", ZŠ Lipt. Mikuláš, 1160 divákov,2016-12-20 17:00:00,1160.0,LM,KE
+479,HC ‘05 iClinic Banská Bystrica,"HK Poprad, s.r.o.",5,6,pp," Utorok 20.12.2016, 17:30"," 30. kolo, Číslo zápasu 150", ZŠ Banská Bystrica, 2061 divákov,2016-12-20 17:30:00,2061.0,BB,PP
+480,HC ‘05 iClinic Banská Bystrica,MHC Martin,4,2,," Štvrtok 22.12.2016, 17:30"," 31. kolo, Číslo zápasu 151", ZŠ Banská Bystrica, 2164 divákov,2016-12-22 17:30:00,2164.0,BB,MT
+481,"HK Poprad, s.r.o.","MHk 32 Liptovský Mikuláš, a.s.",5,3,," Štvrtok 22.12.2016, 17:00"," 31. kolo, Číslo zápasu 152", ZŠ Poprad, 1395 divákov,2016-12-22 17:00:00,1395.0,PP,LM
+482,HC Košice s.r.o.,HC Nové Zámky ,4,3,pp," Štvrtok 22.12.2016, 17:30"," 31. kolo, Číslo zápasu 153", STEEL Arena Košice, 3018 divákov,2016-12-22 17:30:00,3018.0,KE,NZ
+483,"HK Nitra, s.r.o.","HK DUKLA Trenčín, a.s.",9,2,," Štvrtok 22.12.2016, 18:00"," 31. kolo, Číslo zápasu 154", Nitra Aréna, 3107 divákov,2016-12-22 18:00:00,3107.0,NR,TN
+484,MsHK Žilina,HKM a.s. Zvolen,1,3,," Štvrtok 22.12.2016, 17:00"," 31. kolo, Číslo zápasu 155", _, 2114 divákov,2016-12-22 17:00:00,2114.0,ZI,ZV
+485,MHC Martin,MsHK Žilina,1,3,," Pondelok 26.12.2016, 17:00"," 32. kolo, Číslo zápasu 156", ZŠ Martin, 2855 divákov,2016-12-26 17:00:00,2855.0,MT,ZI
+486,HKM a.s. Zvolen,"HK Nitra, s.r.o.",5,4,," Pondelok 26.12.2016, 17:00"," 32. kolo, Číslo zápasu 157", ZŠ Zvolen, 2089 divákov,2016-12-26 17:00:00,2089.0,ZV,NR
+487,"HK DUKLA Trenčín, a.s.",HC Košice s.r.o.,1,3,," Pondelok 26.12.2016, 17:00"," 32. kolo, Číslo zápasu 158"," ZŠ Pavla Demitru, Trenčín", 2251 divákov,2016-12-26 17:00:00,2251.0,TN,KE
+488,HC Nové Zámky ,"HK Poprad, s.r.o.",7,2,," Pondelok 26.12.2016, 17:00"," 32. kolo, Číslo zápasu 159", ZŠ Nové Zámky, 1213 divákov,2016-12-26 17:00:00,1213.0,NZ,PP
+489,"MHk 32 Liptovský Mikuláš, a.s.",HC ‘05 iClinic Banská Bystrica,2,6,," Pondelok 26.12.2016, 17:00"," 32. kolo, Číslo zápasu 160", ZŠ Lipt. Mikuláš, 2150 divákov,2016-12-26 17:00:00,2150.0,LM,BB
+490,"MHk 32 Liptovský Mikuláš, a.s.",MHC Martin,3,1,," Streda 28.12.2016, 17:00"," 33. kolo, Číslo zápasu 161", ZŠ Lipt. Mikuláš, 1950 divákov,2016-12-28 17:00:00,1950.0,LM,MT
+491,HC ‘05 iClinic Banská Bystrica,HC Nové Zámky ,2,1,," Streda 28.12.2016, 17:30"," 33. kolo, Číslo zápasu 162", ZŠ Banská Bystrica, 2712 divákov,2016-12-28 17:30:00,2712.0,BB,NZ
+492,"HK Poprad, s.r.o.","HK DUKLA Trenčín, a.s.",3,2,," Streda 28.12.2016, 18:00"," 33. kolo, Číslo zápasu 163", ZŠ Poprad, 1690 divákov,2016-12-28 18:00:00,1690.0,PP,TN
+493,HC Košice s.r.o.,HKM a.s. Zvolen,2,0,," Streda 28.12.2016, 17:30"," 33. kolo, Číslo zápasu 164", STEEL Arena Košice, 4255 divákov,2016-12-28 17:30:00,4255.0,KE,ZV
+494,"HK Nitra, s.r.o.",MsHK Žilina,4,1,," Streda 28.12.2016, 18:00"," 33. kolo, Číslo zápasu 165", Nitra Aréna, 3085 divákov,2016-12-28 18:00:00,3085.0,NR,ZI
+495,MHC Martin,"HK Nitra, s.r.o.",4,3,," Piatok 30.12.2016, 17:00"," 34. kolo, Číslo zápasu 166", ZŠ Martin, 1754 divákov,2016-12-30 17:00:00,1754.0,MT,NR
+496,MsHK Žilina,HC Košice s.r.o.,2,3,pp," Piatok 30.12.2016, 18:00"," 34. kolo, Číslo zápasu 167", _, 1609 divákov,2016-12-30 18:00:00,1609.0,ZI,KE
+497,HKM a.s. Zvolen,"HK Poprad, s.r.o.",2,3,," Piatok 30.12.2016, 18:00"," 34. kolo, Číslo zápasu 168", ZŠ Zvolen, 1398 divákov,2016-12-30 18:00:00,1398.0,ZV,PP
+498,"HK DUKLA Trenčín, a.s.",HC ‘05 iClinic Banská Bystrica,3,5,," Piatok 30.12.2016, 18:00"," 34. kolo, Číslo zápasu 169"," ZŠ Pavla Demitru, Trenčín", 2085 divákov,2016-12-30 18:00:00,2085.0,TN,BB
+499,HC Nové Zámky ,"MHk 32 Liptovský Mikuláš, a.s.",5,2,," Piatok 30.12.2016, 18:00"," 34. kolo, Číslo zápasu 170", ZŠ Nové Zámky, 1524 divákov,2016-12-30 18:00:00,1524.0,NZ,LM
+500,HC Nové Zámky ,MHC Martin,4,2,," Utorok 03.01.2017, 18:00"," 35. kolo, Číslo zápasu 171", ZŠ Nové Zámky, 1154 divákov,2017-01-03 18:00:00,1154.0,NZ,MT
+501,"MHk 32 Liptovský Mikuláš, a.s.","HK DUKLA Trenčín, a.s.",8,3,," Utorok 03.01.2017, 17:00"," 35. kolo, Číslo zápasu 172", ZŠ Lipt. Mikuláš, 1350 divákov,2017-01-03 17:00:00,1350.0,LM,TN
+502,HC ‘05 iClinic Banská Bystrica,HKM a.s. Zvolen,3,4,," Utorok 03.01.2017, 17:30"," 35. kolo, Číslo zápasu 173", ZŠ Banská Bystrica, 2841 divákov,2017-01-03 17:30:00,2841.0,BB,ZV
+503,"HK Poprad, s.r.o.",MsHK Žilina,6,3,," Utorok 03.01.2017, 17:00"," 35. kolo, Číslo zápasu 174", ZŠ Poprad, 1658 divákov,2017-01-03 17:00:00,1658.0,PP,ZI
+504,HC Košice s.r.o.,"HK Nitra, s.r.o.",1,4,," Utorok 03.01.2017, 17:30"," 35. kolo, Číslo zápasu 175", STEEL Arena Košice, 4286 divákov,2017-01-03 17:30:00,4286.0,KE,NR
+505,"HK Nitra, s.r.o.","HK Poprad, s.r.o.",5,3,," Piatok 06.01.2017, 17:00"," 36. kolo, Číslo zápasu 177", Nitra Aréna, 2929 divákov,2017-01-06 17:00:00,2929.0,NR,PP
+506,MsHK Žilina,HC ‘05 iClinic Banská Bystrica,5,2,," Piatok 06.01.2017, 17:00"," 36. kolo, Číslo zápasu 178", _, 1101 divákov,2017-01-06 17:00:00,1101.0,ZI,BB
+507,HKM a.s. Zvolen,"MHk 32 Liptovský Mikuláš, a.s.",5,1,," Piatok 06.01.2017, 17:00"," 36. kolo, Číslo zápasu 179", ZŠ Zvolen, 1277 divákov,2017-01-06 17:00:00,1277.0,ZV,LM
+508,"HK DUKLA Trenčín, a.s.",HC Nové Zámky ,3,0,," Piatok 06.01.2017, 17:00"," 36. kolo, Číslo zápasu 180"," ZŠ Pavla Demitru, Trenčín", 1551 divákov,2017-01-06 17:00:00,1551.0,TN,NZ
+509,"HK DUKLA Trenčín, a.s.",MHC Martin,2,1,," Nedeľa 08.01.2017, 17:00"," 37. kolo, Číslo zápasu 181"," ZŠ Pavla Demitru, Trenčín", 1807 divákov,2017-01-08 17:00:00,1807.0,TN,MT
+510,HKM a.s. Zvolen,HC Nové Zámky ,1,0,," Nedeľa 08.01.2017, 17:00"," 37. kolo, Číslo zápasu 182", ZŠ Zvolen, 1018 divákov,2017-01-08 17:00:00,1018.0,ZV,NZ
+511,MsHK Žilina,"MHk 32 Liptovský Mikuláš, a.s.",4,2,," Nedeľa 08.01.2017, 17:00"," 37. kolo, Číslo zápasu 183", _, 909 divákov,2017-01-08 17:00:00,909.0,ZI,LM
+512,"HK Nitra, s.r.o.",HC ‘05 iClinic Banská Bystrica,3,0,," Nedeľa 08.01.2017, 15:00"," 37. kolo, Číslo zápasu 184", Nitra Aréna, 3336 divákov,2017-01-08 15:00:00,3336.0,NR,BB
+513,HC Košice s.r.o.,"HK Poprad, s.r.o.",0,1,," Nedeľa 08.01.2017, 17:00"," 37. kolo, Číslo zápasu 185", STEEL Arena Košice, 2629 divákov,2017-01-08 17:00:00,2629.0,KE,PP
+514,MHC Martin,"HK Poprad, s.r.o.",3,4,sn," Piatok 13.01.2017, 18:00"," 38. kolo, Číslo zápasu 186", ZŠ Martin, 1555 divákov,2017-01-13 18:00:00,1555.0,MT,PP
+515,HC Košice s.r.o.,HC ‘05 iClinic Banská Bystrica,2,3,," Piatok 13.01.2017, 17:30"," 38. kolo, Číslo zápasu 187", STEEL Arena Košice, 3971 divákov,2017-01-13 17:30:00,3971.0,KE,BB
+516,"MHk 32 Liptovský Mikuláš, a.s.","HK Nitra, s.r.o.",1,4,," Piatok 13.01.2017, 17:00"," 38. kolo, Číslo zápasu 188", ZŠ Lipt. Mikuláš, 1370 divákov,2017-01-13 17:00:00,1370.0,LM,NR
+517,HC Nové Zámky ,MsHK Žilina,2,3,," Piatok 13.01.2017, 18:00"," 38. kolo, Číslo zápasu 189", ZŠ Nové Zámky, 874 divákov,2017-01-13 18:00:00,874.0,NZ,ZI
+518,"HK DUKLA Trenčín, a.s.",HKM a.s. Zvolen,4,1,," Piatok 13.01.2017, 18:00"," 38. kolo, Číslo zápasu 190"," ZŠ Pavla Demitru, Trenčín", 2061 divákov,2017-01-13 18:00:00,2061.0,TN,ZV
+519,HKM a.s. Zvolen,MHC Martin,0,1,sn," Nedeľa 15.01.2017, 17:00"," 39. kolo, Číslo zápasu 191", ZŠ Zvolen, 1015 divákov,2017-01-15 17:00:00,1015.0,ZV,MT
+520,MsHK Žilina,"HK DUKLA Trenčín, a.s.",2,1,pp," Nedeľa 15.01.2017, 17:00"," 39. kolo, Číslo zápasu 192", _, 1203 divákov,2017-01-15 17:00:00,1203.0,ZI,TN
+521,"HK Nitra, s.r.o.",HC Nové Zámky ,1,3,," Nedeľa 15.01.2017, 17:00"," 39. kolo, Číslo zápasu 193", Nitra Aréna, 3100 divákov,2017-01-15 17:00:00,3100.0,NR,NZ
+522,HC Košice s.r.o.,"MHk 32 Liptovský Mikuláš, a.s.",4,2,," Nedeľa 15.01.2017, 17:00"," 39. kolo, Číslo zápasu 194", STEEL Arena Košice, 2496 divákov,2017-01-15 17:00:00,2496.0,KE,LM
+523,"HK Poprad, s.r.o.",HC ‘05 iClinic Banská Bystrica,4,1,," Nedeľa 15.01.2017, 17:00"," 39. kolo, Číslo zápasu 195", ZŠ Poprad, 1787 divákov,2017-01-15 17:00:00,1787.0,PP,BB
+524,MHC Martin,HC ‘05 iClinic Banská Bystrica,4,1,," Piatok 20.01.2017, 18:00"," 40. kolo, Číslo zápasu 196", ZŠ Martin, 1545 divákov,2017-01-20 18:00:00,1545.0,MT,BB
+525,"MHk 32 Liptovský Mikuláš, a.s.","HK Poprad, s.r.o.",2,3,," Piatok 20.01.2017, 17:00"," 40. kolo, Číslo zápasu 197", ZŠ Lipt. Mikuláš, 1360 divákov,2017-01-20 17:00:00,1360.0,LM,PP
+526,HC Nové Zámky ,HC Košice s.r.o.,0,4,," Piatok 20.01.2017, 18:00"," 40. kolo, Číslo zápasu 198", ZŠ Nové Zámky, 1236 divákov,2017-01-20 18:00:00,1236.0,NZ,KE
+527,"HK DUKLA Trenčín, a.s.","HK Nitra, s.r.o.",3,4,sn," Piatok 20.01.2017, 18:00"," 40. kolo, Číslo zápasu 199"," ZŠ Pavla Demitru, Trenčín", 2553 divákov,2017-01-20 18:00:00,2553.0,TN,NR
+528,HKM a.s. Zvolen,MsHK Žilina,2,5,," Piatok 20.01.2017, 18:00"," 40. kolo, Číslo zápasu 200", ZŠ Zvolen, 902 divákov,2017-01-20 18:00:00,902.0,ZV,ZI
+529,MsHK Žilina,MHC Martin,1,2,sn," Piatok 27.01.2017, 18:00"," 41. kolo, Číslo zápasu 201", _, 3212 divákov,2017-01-27 18:00:00,3212.0,ZI,MT
+530,"HK Nitra, s.r.o.",HKM a.s. Zvolen,4,3,," Piatok 27.01.2017, 18:00"," 41. kolo, Číslo zápasu 202", Nitra Aréna, 2786 divákov,2017-01-27 18:00:00,2786.0,NR,ZV
+531,HC Košice s.r.o.,"HK DUKLA Trenčín, a.s.",6,4,," Utorok 31.01.2017, 17:30"," 41. kolo, Číslo zápasu 203", STEEL Arena Košice, 2994 divákov,2017-01-31 17:30:00,2994.0,KE,TN
+532,"HK Poprad, s.r.o.",HC Nové Zámky ,2,3,pp," Piatok 27.01.2017, 17:00"," 41. kolo, Číslo zápasu 204", ZŠ Poprad, 1278 divákov,2017-01-27 17:00:00,1278.0,PP,NZ
+533,HC ‘05 iClinic Banská Bystrica,"MHk 32 Liptovský Mikuláš, a.s.",6,1,," Piatok 27.01.2017, 17:30"," 41. kolo, Číslo zápasu 205", ZŠ Banská Bystrica, 2225 divákov,2017-01-27 17:30:00,2225.0,BB,LM
+534,MHC Martin,"MHk 32 Liptovský Mikuláš, a.s.",4,2,," Nedeľa 22.01.2017, 17:00"," 42. kolo, Číslo zápasu 206", ZŠ Martin, 1610 divákov,2017-01-22 17:00:00,1610.0,MT,LM
+535,HC Nové Zámky ,HC ‘05 iClinic Banská Bystrica,2,3,," Nedeľa 22.01.2017, 17:00"," 42. kolo, Číslo zápasu 207", ZŠ Nové Zámky, 956 divákov,2017-01-22 17:00:00,956.0,NZ,BB
+536,"HK DUKLA Trenčín, a.s.","HK Poprad, s.r.o.",2,1,," Nedeľa 22.01.2017, 17:00"," 42. kolo, Číslo zápasu 208"," ZŠ Pavla Demitru, Trenčín", 2005 divákov,2017-01-22 17:00:00,2005.0,TN,PP
+537,HKM a.s. Zvolen,HC Košice s.r.o.,2,3,pp," Nedeľa 22.01.2017, 17:00"," 42. kolo, Číslo zápasu 209", ZŠ Zvolen, 1095 divákov,2017-01-22 17:00:00,1095.0,ZV,KE
+538,MsHK Žilina,"HK Nitra, s.r.o.",3,4,," Nedeľa 22.01.2017, 17:00"," 42. kolo, Číslo zápasu 210", _, 1402 divákov,2017-01-22 17:00:00,1402.0,ZI,NR
+539,"HK Nitra, s.r.o.",MHC Martin,5,2,," Piatok 03.02.2017, 18:00"," 43. kolo, Číslo zápasu 211", Nitra Aréna, 2585 divákov,2017-02-03 18:00:00,2585.0,NR,MT
+540,HC Košice s.r.o.,MsHK Žilina,4,5,," Piatok 03.02.2017, 17:30"," 43. kolo, Číslo zápasu 212", STEEL Arena Košice, 2992 divákov,2017-02-03 17:30:00,2992.0,KE,ZI
+541,"HK Poprad, s.r.o.",HKM a.s. Zvolen,5,6,," Piatok 03.02.2017, 17:00"," 43. kolo, Číslo zápasu 213", ZŠ Poprad, 1062 divákov,2017-02-03 17:00:00,1062.0,PP,ZV
+542,HC ‘05 iClinic Banská Bystrica,"HK DUKLA Trenčín, a.s.",4,1,," Piatok 03.02.2017, 17:30"," 43. kolo, Číslo zápasu 214", ZŠ Banská Bystrica, 2325 divákov,2017-02-03 17:30:00,2325.0,BB,TN
+543,"MHk 32 Liptovský Mikuláš, a.s.",HC Nové Zámky ,2,6,," Piatok 03.02.2017, 17:00"," 43. kolo, Číslo zápasu 215", ZŠ Lipt. Mikuláš, 1350 divákov,2017-02-03 17:00:00,1350.0,LM,NZ
+544,MHC Martin,HC Nové Zámky ,2,1,," Nedeľa 05.02.2017, 17:00"," 44. kolo, Číslo zápasu 216", ZŠ Martin, 1750 divákov,2017-02-05 17:00:00,1750.0,MT,NZ
+545,"HK DUKLA Trenčín, a.s.","MHk 32 Liptovský Mikuláš, a.s.",2,1,," Nedeľa 05.02.2017, 17:00"," 44. kolo, Číslo zápasu 217"," ZŠ Pavla Demitru, Trenčín", 2252 divákov,2017-02-05 17:00:00,2252.0,TN,LM
+546,HKM a.s. Zvolen,HC ‘05 iClinic Banská Bystrica,3,4,pp," Nedeľa 05.02.2017, 17:00"," 44. kolo, Číslo zápasu 218", ZŠ Zvolen, 3820 divákov,2017-02-05 17:00:00,3820.0,ZV,BB
+547,MsHK Žilina,"HK Poprad, s.r.o.",2,1,pp," Nedeľa 05.02.2017, 17:00"," 44. kolo, Číslo zápasu 219", _, 1332 divákov,2017-02-05 17:00:00,1332.0,ZI,PP
+548,"HK Nitra, s.r.o.",HC Košice s.r.o.,3,2,sn," Nedeľa 05.02.2017, 15:00"," 44. kolo, Číslo zápasu 220", Nitra Aréna, 3396 divákov,2017-02-05 15:00:00,3396.0,NR,KE
+549,HC Košice s.r.o.,MHC Martin,3,2,sn," Utorok 14.02.2017, 17:30"," 45. kolo, Číslo zápasu 221", STEEL Arena Košice, 3097 divákov,2017-02-14 17:30:00,3097.0,KE,MT
+550,"HK Poprad, s.r.o.","HK Nitra, s.r.o.",1,3,," Utorok 14.02.2017, 17:00"," 45. kolo, Číslo zápasu 222", ZŠ Poprad, 1251 divákov,2017-02-14 17:00:00,1251.0,PP,NR
+551,HC ‘05 iClinic Banská Bystrica,MsHK Žilina,4,1,," Utorok 14.02.2017, 17:30"," 45. kolo, Číslo zápasu 223", ZŠ Banská Bystrica, 2278 divákov,2017-02-14 17:30:00,2278.0,BB,ZI
+552,"MHk 32 Liptovský Mikuláš, a.s.",HKM a.s. Zvolen,4,5,," Utorok 14.02.2017, 17:00"," 45. kolo, Číslo zápasu 224", ZŠ Lipt. Mikuláš, 1086 divákov,2017-02-14 17:00:00,1086.0,LM,ZV
+553,HC Nové Zámky ,"HK DUKLA Trenčín, a.s.",3,1,," Utorok 14.02.2017, 18:00"," 45. kolo, Číslo zápasu 225", ZŠ Nové Zámky, 796 divákov,2017-02-14 18:00:00,796.0,NZ,TN
+554,MHC Martin,"HK DUKLA Trenčín, a.s.",2,4,," Piatok 17.02.2017, 18:00"," 46. kolo, Číslo zápasu 226", ZŠ Martin, 1774 divákov,2017-02-17 18:00:00,1774.0,MT,TN
+555,HC Nové Zámky ,HKM a.s. Zvolen,1,0,," Piatok 17.02.2017, 18:00"," 46. kolo, Číslo zápasu 227", ZŠ Nové Zámky, 1056 divákov,2017-02-17 18:00:00,1056.0,NZ,ZV
+556,"MHk 32 Liptovský Mikuláš, a.s.",MsHK Žilina,4,5,," Piatok 17.02.2017, 17:00"," 46. kolo, Číslo zápasu 228", ZŠ Lipt. Mikuláš, 1135 divákov,2017-02-17 17:00:00,1135.0,LM,ZI
+557,HC ‘05 iClinic Banská Bystrica,"HK Nitra, s.r.o.",3,2,pp," Piatok 17.02.2017, 17:30"," 46. kolo, Číslo zápasu 229", ZŠ Banská Bystrica, 2841 divákov,2017-02-17 17:30:00,2841.0,BB,NR
+558,"HK Poprad, s.r.o.",HC Košice s.r.o.,3,2,," Piatok 17.02.2017, 17:00"," 46. kolo, Číslo zápasu 230", ZŠ Poprad, 1760 divákov,2017-02-17 17:00:00,1760.0,PP,KE
+559,"HK Poprad, s.r.o.",MHC Martin,4,2,," Nedeľa 19.02.2017, 17:00"," 47. kolo, Číslo zápasu 231", ZŠ Poprad, 1411 divákov,2017-02-19 17:00:00,1411.0,PP,MT
+560,HC Košice s.r.o.,HC ‘05 iClinic Banská Bystrica,1,2,," Nedeľa 19.02.2017, 17:00"," 47. kolo, Číslo zápasu 232", STEEL Arena Košice, 4075 divákov,2017-02-19 17:00:00,4075.0,KE,BB
+561,"HK Nitra, s.r.o.","MHk 32 Liptovský Mikuláš, a.s.",5,1,," Nedeľa 19.02.2017, 15:00"," 47. kolo, Číslo zápasu 233", Nitra Aréna, 2329 divákov,2017-02-19 15:00:00,2329.0,NR,LM
+562,MsHK Žilina,HC Nové Zámky ,4,3,pp," Nedeľa 19.02.2017, 17:00"," 47. kolo, Číslo zápasu 234", _, 1046 divákov,2017-02-19 17:00:00,1046.0,ZI,NZ
+563,HKM a.s. Zvolen,"HK DUKLA Trenčín, a.s.",3,2,," Nedeľa 19.02.2017, 17:00"," 47. kolo, Číslo zápasu 235", ZŠ Zvolen, 1593 divákov,2017-02-19 17:00:00,1593.0,ZV,TN
+564,MHC Martin,HKM a.s. Zvolen,3,4,pp," Piatok 24.02.2017, 18:00"," 48. kolo, Číslo zápasu 236", ZŠ Martin, 1802 divákov,2017-02-24 18:00:00,1802.0,MT,ZV
+565,"HK DUKLA Trenčín, a.s.",MsHK Žilina,2,3,sn," Piatok 24.02.2017, 18:00"," 48. kolo, Číslo zápasu 237"," ZŠ Pavla Demitru, Trenčín", 2644 divákov,2017-02-24 18:00:00,2644.0,TN,ZI
+566,HC Nové Zámky ,"HK Nitra, s.r.o.",8,1,," Piatok 24.02.2017, 18:00"," 48. kolo, Číslo zápasu 238", ZŠ Nové Zámky, 2258 divákov,2017-02-24 18:00:00,2258.0,NZ,NR
+567,"MHk 32 Liptovský Mikuláš, a.s.",HC Košice s.r.o.,0,2,," Piatok 24.02.2017, 17:00"," 48. kolo, Číslo zápasu 239", ZŠ Lipt. Mikuláš, 1274 divákov,2017-02-24 17:00:00,1274.0,LM,KE
+568,HC ‘05 iClinic Banská Bystrica,"HK Poprad, s.r.o.",4,2,," Piatok 24.02.2017, 17:30"," 48. kolo, Číslo zápasu 240", ZŠ Banská Bystrica, 2788 divákov,2017-02-24 17:30:00,2788.0,BB,PP
+569,HC ‘05 iClinic Banská Bystrica,MHC Martin,,,," Nedeľa 26.02.2017, 17:00"," 49. kolo, Číslo zápasu 241", ZŠ Banská Bystrica,Prehľad,2017-02-26 17:00:00,,BB,MT
+570,"HK Poprad, s.r.o.","MHk 32 Liptovský Mikuláš, a.s.",2,4,," Nedeľa 26.02.2017, 17:00"," 49. kolo, Číslo zápasu 242", ZŠ Poprad, 1121 divákov,2017-02-26 17:00:00,1121.0,PP,LM
+571,HC Košice s.r.o.,HC Nové Zámky ,5,1,," Nedeľa 26.02.2017, 17:00"," 49. kolo, Číslo zápasu 243", STEEL Arena Košice, 3166 divákov,2017-02-26 17:00:00,3166.0,KE,NZ
+572,"HK Nitra, s.r.o.","HK DUKLA Trenčín, a.s.",4,3,," Nedeľa 26.02.2017, 15:00"," 49. kolo, Číslo zápasu 244", Nitra Aréna, 2783 divákov,2017-02-26 15:00:00,2783.0,NR,TN
+573,MsHK Žilina,HKM a.s. Zvolen,6,3,," Nedeľa 26.02.2017, 15:00"," 49. kolo, Číslo zápasu 245", _, 1301 divákov,2017-02-26 15:00:00,1301.0,ZI,ZV
+574,MHC Martin,MsHK Žilina,0,5,kont.," Piatok 03.03.2017, 18:00"," 50. kolo, Číslo zápasu 246", ZŠ Martin,Prehľad,2017-03-03 18:00:00,,MT,ZI
+575,HKM a.s. Zvolen,"HK Nitra, s.r.o.",2,3,pp," Piatok 03.03.2017, 18:00"," 50. kolo, Číslo zápasu 247", ZŠ Zvolen, 1690 divákov,2017-03-03 18:00:00,1690.0,ZV,NR
+576,"HK DUKLA Trenčín, a.s.",HC Košice s.r.o.,3,0,," Piatok 03.03.2017, 18:00"," 50. kolo, Číslo zápasu 248"," ZŠ Pavla Demitru, Trenčín", 2459 divákov,2017-03-03 18:00:00,2459.0,TN,KE
+577,HC Nové Zámky ,"HK Poprad, s.r.o.",4,1,," Piatok 03.03.2017, 18:00"," 50. kolo, Číslo zápasu 249", ZŠ Nové Zámky, 1425 divákov,2017-03-03 18:00:00,1425.0,NZ,PP
+578,"MHk 32 Liptovský Mikuláš, a.s.",HC ‘05 iClinic Banská Bystrica,2,4,," Piatok 03.03.2017, 17:00"," 50. kolo, Číslo zápasu 250", ZŠ Lipt. Mikuláš, 1310 divákov,2017-03-03 17:00:00,1310.0,LM,BB
+579,"MHk 32 Liptovský Mikuláš, a.s.",MHC Martin,0,3,," Nedeľa 05.03.2017, 17:00"," 51. kolo, Číslo zápasu 251", ZŠ Lipt. Mikuláš, 1100 divákov,2017-03-05 17:00:00,1100.0,LM,MT
+580,HC ‘05 iClinic Banská Bystrica,HC Nové Zámky ,4,3,," Nedeľa 05.03.2017, 17:00"," 51. kolo, Číslo zápasu 252", ZŠ Banská Bystrica, 2343 divákov,2017-03-05 17:00:00,2343.0,BB,NZ
+581,"HK Poprad, s.r.o.","HK DUKLA Trenčín, a.s.",2,3,pp," Nedeľa 05.03.2017, 17:00"," 51. kolo, Číslo zápasu 253", ZŠ Poprad, 1425 divákov,2017-03-05 17:00:00,1425.0,PP,TN
+582,HC Košice s.r.o.,HKM a.s. Zvolen,0,2,," Nedeľa 05.03.2017, 17:00"," 51. kolo, Číslo zápasu 254", STEEL Arena Košice, 7431 divákov,2017-03-05 17:00:00,7431.0,KE,ZV
+583,"HK Nitra, s.r.o.",MsHK Žilina,4,1,," Nedeľa 05.03.2017, 15:00"," 51. kolo, Číslo zápasu 255", Nitra Aréna, 2790 divákov,2017-03-05 15:00:00,2790.0,NR,ZI
+584,MHC Martin,"HK Nitra, s.r.o.",4,3,sn," Streda 08.03.2017, 18:00"," 52. kolo, Číslo zápasu 256", ZŠ Martin, 1761 divákov,2017-03-08 18:00:00,1761.0,MT,NR
+585,MsHK Žilina,HC Košice s.r.o.,2,4,," Streda 08.03.2017, 18:00"," 52. kolo, Číslo zápasu 257", _,Prehľad,2017-03-08 18:00:00,,ZI,KE
+586,HKM a.s. Zvolen,"HK Poprad, s.r.o.",4,3,sn," Streda 08.03.2017, 18:00"," 52. kolo, Číslo zápasu 258", ZŠ Zvolen, 1028 divákov,2017-03-08 18:00:00,1028.0,ZV,PP
+587,"HK DUKLA Trenčín, a.s.",HC ‘05 iClinic Banská Bystrica,2,1,," Streda 08.03.2017, 18:00"," 52. kolo, Číslo zápasu 259"," ZŠ Pavla Demitru, Trenčín", 2301 divákov,2017-03-08 18:00:00,2301.0,TN,BB
+588,HC Nové Zámky ,"MHk 32 Liptovský Mikuláš, a.s.",4,2,," Streda 08.03.2017, 18:00"," 52. kolo, Číslo zápasu 260", ZŠ Nové Zámky, 923 divákov,2017-03-08 18:00:00,923.0,NZ,LM
+589,HC Nové Zámky ,MHC Martin,4,2,," Piatok 10.03.2017, 17:30"," 53. kolo, Číslo zápasu 261", ZŠ Nové Zámky, 1968 divákov,2017-03-10 17:30:00,1968.0,NZ,MT
+590,"MHk 32 Liptovský Mikuláš, a.s.","HK DUKLA Trenčín, a.s.",2,4,," Piatok 10.03.2017, 17:30"," 53. kolo, Číslo zápasu 262", ZŠ Lipt. Mikuláš, 1080 divákov,2017-03-10 17:30:00,1080.0,LM,TN
+591,HC ‘05 iClinic Banská Bystrica,HKM a.s. Zvolen,3,4,pp," Piatok 10.03.2017, 17:30"," 53. kolo, Číslo zápasu 263", ZŠ Banská Bystrica, 2841 divákov,2017-03-10 17:30:00,2841.0,BB,ZV
+592,"HK Poprad, s.r.o.",MsHK Žilina,3,2,pp," Piatok 10.03.2017, 17:30"," 53. kolo, Číslo zápasu 264", ZŠ Poprad, 1017 divákov,2017-03-10 17:30:00,1017.0,PP,ZI
+593,HC Košice s.r.o.,"HK Nitra, s.r.o.",6,1,," Piatok 10.03.2017, 17:30"," 53. kolo, Číslo zápasu 265", STEEL Arena Košice, 3636 divákov,2017-03-10 17:30:00,3636.0,KE,NR
+594,MHC Martin,HC Košice s.r.o.,2,3,pp," Nedeľa 12.03.2017, 17:00"," 54. kolo, Číslo zápasu 266", ZŠ Martin, 2512 divákov,2017-03-12 17:00:00,2512.0,MT,KE
+595,"HK Nitra, s.r.o.","HK Poprad, s.r.o.",2,1,," Nedeľa 12.03.2017, 17:00"," 54. kolo, Číslo zápasu 267", Nitra Aréna, 2227 divákov,2017-03-12 17:00:00,2227.0,NR,PP
+596,MsHK Žilina,HC ‘05 iClinic Banská Bystrica,1,2,pp," Nedeľa 12.03.2017, 17:00"," 54. kolo, Číslo zápasu 268", _, 1127 divákov,2017-03-12 17:00:00,1127.0,ZI,BB
+597,HKM a.s. Zvolen,"MHk 32 Liptovský Mikuláš, a.s.",4,1,," Nedeľa 12.03.2017, 17:00"," 54. kolo, Číslo zápasu 269", ZŠ Zvolen, 1070 divákov,2017-03-12 17:00:00,1070.0,ZV,LM
+598,"HK DUKLA Trenčín, a.s.",HC Nové Zámky ,2,1,pp," Nedeľa 12.03.2017, 17:00"," 54. kolo, Číslo zápasu 270"," ZŠ Pavla Demitru, Trenčín", 4911 divákov,2017-03-12 17:00:00,4911.0,TN,NZ
+599,HC Košice s.r.o.,MHC Martin,9,3,," Nedeľa 02.10.2016, 17:00"," 9. kolo, Číslo zápasu 41", STEEL Arena Košice, 6470 divákov,2016-10-02 17:00:00,6470.0,KE,MT
+600,"MHk 32 Liptovský Mikuláš, a.s.",HKM a.s. Zvolen,4,1,," Nedeľa 02.10.2016, 17:00"," 9. kolo, Číslo zápasu 44", ZŠ Lipt. Mikuláš, 1820 divákov,2016-10-02 17:00:00,1820.0,LM,ZV
+601,HC Nové Zámky ,"HK DUKLA Trenčín, a.s.",3,2,pp," Nedeľa 02.10.2016, 17:00"," 9. kolo, Číslo zápasu 45", ZŠ Nové Zámky, 952 divákov,2016-10-02 17:00:00,952.0,NZ,TN
+602,"HK Poprad, s.r.o.","HK Nitra, s.r.o.",1,4,," Nedeľa 02.10.2016, 17:00"," 9. kolo, Číslo zápasu 42", ZŠ Poprad, 896 divákov,2016-10-02 17:00:00,896.0,PP,NR
+603,HKM a.s. Zvolen,HK ORANGE 20,4,1,," Utorok 04.10.2016, 18:00"," 9. kolo, Číslo zápasu 276", ZŠ Zvolen, 485 divákov,2016-10-04 18:00:00,485.0,ZV,U20
+604,HK ORANGE 20,"HK Poprad, s.r.o.",1,4,," Štvrtok 06.10.2016, 18:00"," 10. kolo, Číslo zápasu 277", ZŠ Piešťany - Easton Aréna, 170 divákov,2016-10-06 18:00:00,170.0,U20,PP
+605,"MHk 32 Liptovský Mikuláš, a.s.",MsHK Žilina,2,1,," Piatok 07.10.2016, 17:00"," 10. kolo, Číslo zápasu 48", ZŠ Lipt. Mikuláš, 1970 divákov,2016-10-07 17:00:00,1970.0,LM,ZI
+606,HC ‘05 iClinic Banská Bystrica,"HK Nitra, s.r.o.",5,2,," Piatok 07.10.2016, 17:30"," 10. kolo, Číslo zápasu 49", ZŠ Banská Bystrica, 2417 divákov,2016-10-07 17:30:00,2417.0,BB,NR
+607,MHC Martin,"HK DUKLA Trenčín, a.s.",2,3,sn," Piatok 07.10.2016, 18:00"," 10. kolo, Číslo zápasu 46", ZŠ Martin, 1850 divákov,2016-10-07 18:00:00,1850.0,MT,TN
+608,HC Nové Zámky ,HKM a.s. Zvolen,1,5,," Piatok 07.10.2016, 18:00"," 10. kolo, Číslo zápasu 47", ZŠ Nové Zámky, 1421 divákov,2016-10-07 18:00:00,1421.0,NZ,ZV
+609,"HK Poprad, s.r.o.",HC Košice s.r.o.,3,4,pp," Piatok 07.10.2016, 18:00"," 10. kolo, Číslo zápasu 50", ZŠ Poprad, 1106 divákov,2016-10-07 18:00:00,1106.0,PP,KE
+610,"HK Nitra, s.r.o.","MHk 32 Liptovský Mikuláš, a.s.",4,1,," Nedeľa 09.10.2016, 17:00"," 11. kolo, Číslo zápasu 53", Nitra Aréna, 2288 divákov,2016-10-09 17:00:00,2288.0,NR,LM
+611,MsHK Žilina,HC Nové Zámky ,5,4,pp," Nedeľa 09.10.2016, 17:00"," 11. kolo, Číslo zápasu 54", _, 798 divákov,2016-10-09 17:00:00,798.0,ZI,NZ
+612,HKM a.s. Zvolen,"HK DUKLA Trenčín, a.s.",4,3,," Nedeľa 09.10.2016, 17:00"," 11. kolo, Číslo zápasu 55", ZŠ Zvolen, 1002 divákov,2016-10-09 17:00:00,1002.0,ZV,TN
+613,"HK Poprad, s.r.o.",MHC Martin,3,5,," Nedeľa 09.10.2016, 17:00"," 11. kolo, Číslo zápasu 51", ZŠ Poprad, 863 divákov,2016-10-09 17:00:00,863.0,PP,MT
+614,HK ORANGE 20,"HK DUKLA Trenčín, a.s.",0,2,," Utorok 11.10.2016, 18:00"," 11. kolo, Číslo zápasu 278", ZŠ Piešťany - Easton Aréna, 144 divákov,2016-10-11 18:00:00,144.0,U20,TN
+615,HC Košice s.r.o.,HC ‘05 iClinic Banská Bystrica,3,2,," Utorok 18.10.2016, 17:30"," 11. kolo, Číslo zápasu 52", STEEL Arena Košice, 2735 divákov,2016-10-18 17:30:00,2735.0,KE,BB
+616,HK ORANGE 20,MHC Martin,0,4,," Štvrtok 13.10.2016, 18:00"," 12. kolo, Číslo zápasu 279", ZŠ Piešťany - Easton Aréna, 130 divákov,2016-10-13 18:00:00,130.0,U20,MT
+617,"MHk 32 Liptovský Mikuláš, a.s.",HC Košice s.r.o.,3,1,," Piatok 14.10.2016, 17:00"," 12. kolo, Číslo zápasu 59", ZŠ Lipt. Mikuláš, 2150 divákov,2016-10-14 17:00:00,2150.0,LM,KE
+618,HC ‘05 iClinic Banská Bystrica,"HK Poprad, s.r.o.",3,0,," Piatok 14.10.2016, 17:30"," 12. kolo, Číslo zápasu 60", ZŠ Banská Bystrica, 2212 divákov,2016-10-14 17:30:00,2212.0,BB,PP
+619,MHC Martin,HKM a.s. Zvolen,7,2,," Piatok 14.10.2016, 18:00"," 12. kolo, Číslo zápasu 56", ZŠ Martin, 1755 divákov,2016-10-14 18:00:00,1755.0,MT,ZV
+620,"HK DUKLA Trenčín, a.s.",MsHK Žilina,1,4,," Piatok 14.10.2016, 18:00"," 12. kolo, Číslo zápasu 57"," ZŠ Pavla Demitru, Trenčín", 2130 divákov,2016-10-14 18:00:00,2130.0,TN,ZI
+621,HC Nové Zámky ,"HK Nitra, s.r.o.",3,4,sn," Piatok 14.10.2016, 18:00"," 12. kolo, Číslo zápasu 58", ZŠ Nové Zámky, 3826 divákov,2016-10-14 18:00:00,3826.0,NZ,NR
+622,HC ‘05 iClinic Banská Bystrica,MHC Martin,6,2,," Nedeľa 16.10.2016, 17:00"," 13. kolo, Číslo zápasu 61", ZŠ Banská Bystrica, 2084 divákov,2016-10-16 17:00:00,2084.0,BB,MT
+623,HC Košice s.r.o.,HC Nové Zámky ,0,1,," Nedeľa 16.10.2016, 17:00"," 13. kolo, Číslo zápasu 63", STEEL Arena Košice, 3021 divákov,2016-10-16 17:00:00,3021.0,KE,NZ
+624,"HK Nitra, s.r.o.","HK DUKLA Trenčín, a.s.",4,2,," Nedeľa 16.10.2016, 17:00"," 13. kolo, Číslo zápasu 64", Nitra Aréna, 2720 divákov,2016-10-16 17:00:00,2720.0,NR,TN
+625,MsHK Žilina,HKM a.s. Zvolen,6,4,," Nedeľa 16.10.2016, 17:00"," 13. kolo, Číslo zápasu 65", _, 894 divákov,2016-10-16 17:00:00,894.0,ZI,ZV
+626,"HK Poprad, s.r.o.","MHk 32 Liptovský Mikuláš, a.s.",2,4,," Nedeľa 16.10.2016, 16:00"," 13. kolo, Číslo zápasu 62", ZŠ Poprad, 1162 divákov,2016-10-16 16:00:00,1162.0,PP,LM
+627,"HK DUKLA Trenčín, a.s.",HK ORANGE 20,5,2,," Utorok 18.10.2016, 18:00"," 13. kolo, Číslo zápasu 280"," ZŠ Pavla Demitru, Trenčín", 588 divákov,2016-10-18 18:00:00,588.0,TN,U20
+628,HK ORANGE 20,MsHK Žilina,0,3,," Štvrtok 20.10.2016, 18:00"," 14. kolo, Číslo zápasu 281", ZŠ Piešťany - Easton Aréna, 137 divákov,2016-10-20 18:00:00,137.0,U20,ZI
+629,"MHk 32 Liptovský Mikuláš, a.s.",HC ‘05 iClinic Banská Bystrica,1,5,," Piatok 21.10.2016, 17:00"," 14. kolo, Číslo zápasu 70", ZŠ Lipt. Mikuláš, 2530 divákov,2016-10-21 17:00:00,2530.0,LM,BB
+630,MHC Martin,MsHK Žilina,2,1,," Piatok 16.12.2016, 17:00"," 14. kolo, Číslo zápasu 66", ZŠ Martin, 1855 divákov,2016-12-16 17:00:00,1855.0,MT,ZI
+631,HKM a.s. Zvolen,"HK Nitra, s.r.o.",3,7,," Piatok 21.10.2016, 18:00"," 14. kolo, Číslo zápasu 67", ZŠ Zvolen, 954 divákov,2016-10-21 18:00:00,954.0,ZV,NR
+632,"HK DUKLA Trenčín, a.s.",HC Košice s.r.o.,2,4,," Piatok 21.10.2016, 18:00"," 14. kolo, Číslo zápasu 68"," ZŠ Pavla Demitru, Trenčín", 2618 divákov,2016-10-21 18:00:00,2618.0,TN,KE
+633,HC Nové Zámky ,"HK Poprad, s.r.o.",1,2,sn," Piatok 21.10.2016, 18:00"," 14. kolo, Číslo zápasu 69", ZŠ Nové Zámky, 1785 divákov,2016-10-21 18:00:00,1785.0,NZ,PP
+634,"MHk 32 Liptovský Mikuláš, a.s.",MHC Martin,2,1,pp," Utorok 24.01.2017, 17:00"," 15. kolo, Číslo zápasu 71", ZŠ Lipt. Mikuláš, 1150 divákov,2017-01-24 17:00:00,1150.0,LM,MT
+635,HC ‘05 iClinic Banská Bystrica,HC Nové Zámky ,2,0,," Nedeľa 23.10.2016, 17:00"," 15. kolo, Číslo zápasu 72", ZŠ Banská Bystrica, 2495 divákov,2016-10-23 17:00:00,2495.0,BB,NZ
+636,HC Košice s.r.o.,HKM a.s. Zvolen,4,0,," Nedeľa 23.10.2016, 17:00"," 15. kolo, Číslo zápasu 74", STEEL Arena Košice, 3160 divákov,2016-10-23 17:00:00,3160.0,KE,ZV
+637,"HK Nitra, s.r.o.",MsHK Žilina,4,6,," Nedeľa 23.10.2016, 17:00"," 15. kolo, Číslo zápasu 75", Nitra Aréna, 2812 divákov,2016-10-23 17:00:00,2812.0,NR,ZI
+638,"HK Poprad, s.r.o.","HK DUKLA Trenčín, a.s.",5,2,," Nedeľa 23.10.2016, 17:00"," 15. kolo, Číslo zápasu 73", ZŠ Poprad, 920 divákov,2016-10-23 17:00:00,920.0,PP,TN
+639,"MHk 32 Liptovský Mikuláš, a.s.",HK ORANGE 20,1,3,," Utorok 25.10.2016, 17:00"," 15. kolo, Číslo zápasu 282", ZŠ Lipt. Mikuláš, 980 divákov,2016-10-25 17:00:00,980.0,LM,U20
+640,HK ORANGE 20,HC Nové Zámky ,2,4,," Štvrtok 27.10.2016, 18:00"," 16. kolo, Číslo zápasu 283", ZŠ Piešťany - Easton Aréna, 171 divákov,2016-10-27 18:00:00,171.0,U20,NZ
+641,MHC Martin,"HK Nitra, s.r.o.",3,4,," Utorok 10.01.2017, 18:00"," 16. kolo, Číslo zápasu 76", ZŠ Martin, 1455 divákov,2017-01-10 18:00:00,1455.0,MT,NR
+642,MsHK Žilina,HC Košice s.r.o.,3,4,sn," Piatok 28.10.2016, 18:00"," 16. kolo, Číslo zápasu 77", _, 1389 divákov,2016-10-28 18:00:00,1389.0,ZI,KE
+643,HKM a.s. Zvolen,"HK Poprad, s.r.o.",3,0,," Piatok 28.10.2016, 18:00"," 16. kolo, Číslo zápasu 78", ZŠ Zvolen, 927 divákov,2016-10-28 18:00:00,927.0,ZV,PP
+644,"HK DUKLA Trenčín, a.s.",HC ‘05 iClinic Banská Bystrica,2,3,pp," Piatok 28.10.2016, 18:00"," 16. kolo, Číslo zápasu 79"," ZŠ Pavla Demitru, Trenčín", 2104 divákov,2016-10-28 18:00:00,2104.0,TN,BB
+645,HC Nové Zámky ,"MHk 32 Liptovský Mikuláš, a.s.",7,0,," Piatok 28.10.2016, 18:00"," 16. kolo, Číslo zápasu 80", ZŠ Nové Zámky, 1258 divákov,2016-10-28 18:00:00,1258.0,NZ,LM
