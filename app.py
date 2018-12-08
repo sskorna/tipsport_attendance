@@ -95,7 +95,7 @@ app.layout = html.Div(children=[
                             )
                         )
                     ],
-                layout = dict(title = 'Cumulative sum of spectators over time')
+                layout = dict(title = 'Running sum of spectators over time')
                 )
             )
         ], className="six columns"),
