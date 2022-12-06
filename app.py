@@ -9,6 +9,7 @@ import numpy as np
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 data = pd.read_csv("MatchInfo.csv")
+data["dDate"] = pd.to_datetime(data["dDate"])
 data_cum = pd.read_csv("MatchInfoCum.csv")
 data_cum = data_cum[6:201]
 team_averages = [1000, 1000, 1000]
@@ -106,18 +107,18 @@ app.layout = html.Div(children=[
 def update_graph(selected_dropdown_value):
     
     if selected_dropdown_value == "all":
-        plotdata = data[{"iSpectator", "dDate"}]
+        plotdata = data[["iSpectator", "dDate"]]
     else:
         plotdata = data.loc[data.loc[:,"sHome"] == selected_dropdown_value
-                    , {"iSpectators","dDate"}]
+                    , ["iSpectators","dDate"]]
     team_averages = []
     for j in range (1, 4):
         start = str(2015 + j) + "-07-01"
         end = str(2016 + j) + "-06-01"        
         mask = (plotdata['dDate'] > start) & (plotdata['dDate'] <= end)
         subset_data = plotdata.loc[mask]
-        team_averages.append(np.mean(subset_data["iSpectators"]))
-    
+        team_averages.append(np.mean(subset_data["iSpectators"].dropna()))
+    print(team_averages)
     return {
         'data': [{
             'x': ["2016/2017", "2017/2018", "2018/2019"],
